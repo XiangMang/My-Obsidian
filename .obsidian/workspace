@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "868e5c7fa4efcda4",
+    "type": "split",
+    "children": [
+      {
+        "id": "612f6c46e5c49fa7",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf3f6485563272cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "87b3b2cfee4677a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e59ba635f9b74ed6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb5417e5af09a30f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0129052f61c1bc0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "67b79e201fa4831c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a023e450ecd8161f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a57e40e04c587c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c31ee63fcb5302",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05305ac5c0f3eec1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55fcbbe2d60f7a00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f5701dfb7d6fc2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3100e7bacd1910d4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "612f6c46e5c49fa7",
+  "lastOpenFiles": [
+    "未命名.md",
+    "算法基础课/未命名.md",
+    "模板/PTA题解模板.md",
+    "模板/AcWing题解模板.md",
+    "学习总结/2022.06.26_周日.md",
+    "数据结构/未命名.md",
+    "模板/学习总结模板.md",
+    "test.md",
+    "test.md"
+  ]
+}
