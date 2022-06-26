@@ -1,5 +1,5 @@
 {
   "timeFormat": "HH:mm:ss",
-  "dateFormat": "YYYY:MM:DD_ddd",
+  "dateFormat": "YYYY.MM.DD_ddd",
   "folder": "模板"
 }

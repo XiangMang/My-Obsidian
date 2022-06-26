@@ -13,7 +13,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "A"
+      "key": "I"
     }
   ],
   "workspace:split-vertical": [
@@ -23,5 +23,6 @@
       ],
       "key": "\\"
     }
-  ]
+  ],
+  "editor:toggle-italics": []
 }

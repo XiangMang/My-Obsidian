@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "612f6c46e5c49fa7",
+        "id": "5be4ca903a0353b7",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -137,16 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "612f6c46e5c49fa7",
+  "active": "5be4ca903a0353b7",
   "lastOpenFiles": [
-    "未命名.md",
-    "算法基础课/未命名.md",
-    "模板/PTA题解模板.md",
-    "模板/AcWing题解模板.md",
-    "学习总结/2022.06.26_周日.md",
-    "数据结构/未命名.md",
-    "模板/学习总结模板.md",
-    "test.md",
-    "test.md"
+    "算法分类/快速排序.md",
+    "算法分类/分治.md",
+    "函数用法分类/to_string().md",
+    "PAT甲级/第一章 字符串处理/1001 A+B Format.md",
+    "算法分类/前缀和.md",
+    "算法分类/模拟.md",
+    "算法分类/归并排序.md",
+    "算法分类/动态规划.md",
+    "算法分类/链表.md",
+    "算法分类/二分.md"
   ]
 }
