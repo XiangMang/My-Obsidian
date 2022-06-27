@@ -4,5 +4,6 @@
   "promptDelete": false,
   "strictLineBreaks": true,
   "showLineNumber": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "alwaysUpdateLinks": true
 }

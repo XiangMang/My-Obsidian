@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5be4ca903a0353b7",
+        "id": "5d2bcfcd394a2464",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "数据结构题目集/函数题/习题2.4 递增的整数序列链表的插入.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -41,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#归并",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 363
   },
   "right": {
     "id": "a023e450ecd8161f",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构题目集/函数题/习题2.4 递增的整数序列链表的插入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +97,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构题目集/函数题/习题2.4 递增的整数序列链表的插入.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "数据结构题目集/函数题/习题2.4 递增的整数序列链表的插入.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,24 +130,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "5be4ca903a0353b7",
+  "active": "5d2bcfcd394a2464",
   "lastOpenFiles": [
-    "数据结构题目集/函数题/习题2.4 递增的整数序列链表的插入.md",
-    "数据结构题目集/函数题/习题1.9 有序数组的插入.md",
-    "数据结构题目集/函数题/习题1.8 二分查找.md",
-    "数据结构题目集/编程题/习题2.2 数组循环左移.md",
-    "数据结构题目集/编程题/习题2.1 简单计算器.md",
-    "数据结构题目集/编程题/实例1.1 最大子列和问题.md",
-    "算法基础课/第一讲 基础算法/789. 数的范围.md",
-    "算法基础课/第二讲 数据结构/827. 双链表.md",
-    "算法基础课/第二讲 数据结构/826. 单链表.md",
-    "算法基础课/第一讲 基础算法/2816. 判断子序列.md"
+    "03 STL与函数用法分类/vector.md",
+    "备忘录.md",
+    "05 PAT甲级/第一章 字符串处理/1001 A+B Format.md",
+    "02 算法思想分类/高精度.md",
+    "02 算法思想分类/归并排序.md",
+    "06 数据结构题目集/函数题/习题2.6 递归求简单交错幂级数的部分和.md",
+    "06 数据结构题目集/函数题/习题2.7 弹球距离 (pintia.cn).md",
+    "06 数据结构题目集/编程题/习题2.8 输出全排列.md",
+    "06 数据结构题目集/编程题/习题2.3 数列求和-加强版.md",
+    "06 数据结构题目集/编程题/习题2.2 数组循环左移.md"
   ]
 }

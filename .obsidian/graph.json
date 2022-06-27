@@ -6,7 +6,43 @@
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:算法思想分类",
+      "color": {
+        "a": 1,
+        "rgb": 11587492
+      }
+    },
+    {
+      "query": "path:PAT甲级",
+      "color": {
+        "a": 1,
+        "rgb": 15517550
+      }
+    },
+    {
+      "query": "path:算法基础课",
+      "color": {
+        "a": 1,
+        "rgb": 14742004
+      }
+    },
+    {
+      "query": "path:STL与函数用法分类",
+      "color": {
+        "a": 1,
+        "rgb": 10646345
+      }
+    },
+    {
+      "query": "path:数据结构题目集",
+      "color": {
+        "a": 1,
+        "rgb": 15723725
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +53,6 @@
   "repelStrength": 11.7948717948718,
   "linkStrength": 1,
   "linkDistance": 191,
-  "scale": 0.6554983534946934,
+  "scale": 0.6554983534946944,
   "close": true
 }
