@@ -7,8 +7,13 @@
         "id": "5be4ca903a0353b7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "数据结构题目集/函数题/习题2.4 递增的整数序列链表的插入.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "数据结构题目集/函数题/习题2.4 递增的整数序列链表的插入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "数据结构题目集/函数题/习题2.4 递增的整数序列链表的插入.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "数据结构题目集/函数题/习题2.4 递增的整数序列链表的插入.md"
+              }
             }
           },
           {
@@ -139,15 +148,15 @@
   },
   "active": "5be4ca903a0353b7",
   "lastOpenFiles": [
-    "算法分类/快速排序.md",
-    "算法分类/分治.md",
-    "函数用法分类/to_string().md",
-    "PAT甲级/第一章 字符串处理/1001 A+B Format.md",
-    "算法分类/前缀和.md",
-    "算法分类/模拟.md",
-    "算法分类/归并排序.md",
-    "算法分类/动态规划.md",
-    "算法分类/链表.md",
-    "算法分类/二分.md"
+    "数据结构题目集/函数题/习题2.4 递增的整数序列链表的插入.md",
+    "数据结构题目集/函数题/习题1.9 有序数组的插入.md",
+    "数据结构题目集/函数题/习题1.8 二分查找.md",
+    "数据结构题目集/编程题/习题2.2 数组循环左移.md",
+    "数据结构题目集/编程题/习题2.1 简单计算器.md",
+    "数据结构题目集/编程题/实例1.1 最大子列和问题.md",
+    "算法基础课/第一讲 基础算法/789. 数的范围.md",
+    "算法基础课/第二讲 数据结构/827. 双链表.md",
+    "算法基础课/第二讲 数据结构/826. 单链表.md",
+    "算法基础课/第一讲 基础算法/2816. 判断子序列.md"
   ]
 }
