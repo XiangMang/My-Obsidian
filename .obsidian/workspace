@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "16edc3fa636babc7",
+        "id": "8de3cca1b519f200",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "学习总结/2022.06.29_周三.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#删除",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,12 +86,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "学习总结/2022.06.29_周三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "学习总结/2022.06.29_周三.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "学习总结/2022.06.29_周三.md"
+              }
             }
           },
           {
@@ -134,20 +142,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "16edc3fa636babc7",
+  "active": "8de3cca1b519f200",
   "lastOpenFiles": [
-    "06 数据结构题目集/01《数据结构》题目集/函数题/习题1.9 有序数组的插入.md",
-    "06 数据结构题目集/01《数据结构》题目集/函数题/习题3.3 线性表元素的区间删除.md",
-    "06 数据结构题目集/01《数据结构》题目集/函数题/习题2.4 递增的整数序列链表的插入.md",
-    "06 数据结构题目集/01《数据结构》题目集/函数题/习题2.5 两个有序链表序列的合并.md",
-    "04 算法基础课/02 第二讲 数据结构/01 单链表/826. 单链表.md",
-    "06 数据结构题目集/01《数据结构》题目集/函数题/习题1.8 二分查找.md",
-    "02 算法思想分类/11 线性表.md",
-    "06 数据结构题目集/01《数据结构》题目集/编程题/实例1.1 最大子列和问题.md",
-    "06 数据结构题目集/01《数据结构》题目集/编程题/习题3.4 最长连续递增子序列.md",
-    "06 数据结构题目集/01《数据结构》题目集/编程题/习题2.8 输出全排列.md"
+    "学习总结/2022.06.29_周三.md",
+    "英语词汇/PAT甲级词汇/01 第一章 字符串处理.md",
+    "05 PAT甲级/01 第一章 字符串处理/1006 Sign In and Sign Out.md",
+    "03 STL与函数用法分类/03 vector or pair.md",
+    "05 PAT甲级/01 第一章 字符串处理/1035 Password.md",
+    "04 算法基础课/01 第一讲 基础算法/04 高精度/793. 高精度乘法.md",
+    "04 算法基础课/01 第一讲 基础算法/04 高精度/794. 高精度除法.md",
+    "06 数据结构题目集/01《数据结构》题目集/编程题/习题2.1 简单计算器.md",
+    "05 PAT甲级/01 第一章 字符串处理/1001 A+B Format.md",
+    "05 PAT甲级/01 第一章 字符串处理/1005 Spell It Right.md"
   ]
 }

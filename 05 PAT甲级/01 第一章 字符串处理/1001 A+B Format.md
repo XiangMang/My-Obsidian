@@ -1,8 +1,8 @@
 ## [题目详情 - 1001 A+B Format (pintia.cn)](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400)
 
-#模拟 #to_string
-
 [1473. A + B 格式 - AcWing题库](https://www.acwing.com/problem/content/1475/)
+
+#模拟 #to_string #字符串 #简单
 
 Calculate *a*+*b* and output the sum in standard format -- that is, the digits must be separated into groups of three by commas (unless there are less than four digits).
 
