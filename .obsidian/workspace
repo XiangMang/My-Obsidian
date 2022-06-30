@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06 数据结构题目集/01《数据结构》题目集/编程题/习题3.4 最长连续递增子序列.md",
-            "mode": "preview",
+            "file": "英语词汇/Linear Algerbra.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306,
-    "collapsed": true
+    "width": 255
   },
   "right": {
     "id": "a023e450ecd8161f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 数据结构题目集/01《数据结构》题目集/编程题/习题3.4 最长连续递增子序列.md",
+                "file": "英语词汇/Linear Algerbra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 数据结构题目集/01《数据结构》题目集/编程题/习题3.4 最长连续递增子序列.md",
+                "file": "英语词汇/Linear Algerbra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 数据结构题目集/01《数据结构》题目集/编程题/习题3.4 最长连续递增子序列.md"
+                "file": "英语词汇/Linear Algerbra.md"
               }
             }
           },
@@ -149,6 +148,7 @@
   },
   "active": "8de3cca1b519f200",
   "lastOpenFiles": [
+    "英语词汇/Linear Algerbra.md",
     "06 数据结构题目集/01《数据结构》题目集/编程题/习题3.4 最长连续递增子序列.md",
     "学习总结/2022.06.29_周三.md",
     "英语词汇/PAT甲级词汇/01 第一章 字符串处理.md",
@@ -157,7 +157,6 @@
     "05 PAT甲级/01 第一章 字符串处理/1035 Password.md",
     "04 算法基础课/01 第一讲 基础算法/04 高精度/793. 高精度乘法.md",
     "04 算法基础课/01 第一讲 基础算法/04 高精度/794. 高精度除法.md",
-    "06 数据结构题目集/01《数据结构》题目集/编程题/习题2.1 简单计算器.md",
-    "05 PAT甲级/01 第一章 字符串处理/1001 A+B Format.md"
+    "06 数据结构题目集/01《数据结构》题目集/编程题/习题2.1 简单计算器.md"
   ]
 }

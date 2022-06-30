@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Linear Algerbra",
+      "path": "英语词汇/Linear Algerbra.md"
+    },
+    {
       "basename": "习题3.4 最长连续递增子序列",
       "path": "06 数据结构题目集/01《数据结构》题目集/编程题/习题3.4 最长连续递增子序列.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "796. 子矩阵的和",
       "path": "04 算法基础课/01 第一讲 基础算法/05 前缀和/796. 子矩阵的和.md"
-    },
-    {
-      "basename": "备忘录",
-      "path": "备忘录.md"
     }
   ],
   "omittedPaths": [],
