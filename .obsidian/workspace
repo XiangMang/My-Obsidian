@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8de3cca1b519f200",
+        "id": "ef71e11041ad5181",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "英语词汇/Linear Algerbra.md",
-            "mode": "source",
+            "file": "02 算法思想分类/11 线性表.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#链表",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语词汇/Linear Algerbra.md",
+                "file": "02 算法思想分类/11 线性表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语词汇/Linear Algerbra.md",
+                "file": "02 算法思想分类/11 线性表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语词汇/Linear Algerbra.md"
+                "file": "02 算法思想分类/11 线性表.md"
               }
             }
           },
@@ -146,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8de3cca1b519f200",
+  "active": "ef71e11041ad5181",
   "lastOpenFiles": [
-    "英语词汇/Linear Algerbra.md",
-    "06 数据结构题目集/01《数据结构》题目集/编程题/习题3.4 最长连续递增子序列.md",
+    "02 算法思想分类/11 线性表.md",
+    "06 数据结构题目集/03 数据结构与算法题目集/函数题/6-6 带头结点的链式表操作集.md",
+    "06 数据结构题目集/03 数据结构与算法题目集/函数题/6-5 链式表操作集.md",
+    "06 数据结构题目集/03 数据结构与算法题目集/函数题/6-4 链式表的按序号查找.md",
+    "06 数据结构题目集/03 数据结构与算法题目集/函数题/6-3 求链式表的表长.md",
+    "06 数据结构题目集/03 数据结构与算法题目集/函数题/6-2 顺序表操作集.md",
+    "06 数据结构题目集/03 数据结构与算法题目集/函数题/6-1 单链表逆转.md",
     "学习总结/2022.06.29_周三.md",
-    "英语词汇/PAT甲级词汇/01 第一章 字符串处理.md",
-    "05 PAT甲级/01 第一章 字符串处理/1006 Sign In and Sign Out.md",
-    "03 STL与函数用法分类/03 vector or pair.md",
-    "05 PAT甲级/01 第一章 字符串处理/1035 Password.md",
-    "04 算法基础课/01 第一讲 基础算法/04 高精度/793. 高精度乘法.md",
-    "04 算法基础课/01 第一讲 基础算法/04 高精度/794. 高精度除法.md",
-    "06 数据结构题目集/01《数据结构》题目集/编程题/习题2.1 简单计算器.md"
+    "08 文章/理解递归反转链表.md",
+    "05 PAT甲级/1161 Merging Linked Lists.md"
   ]
 }
