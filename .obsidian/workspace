@@ -9,8 +9,21 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 模板/学习总结模板.md",
-            "mode": "source",
+            "file": "10 Linux基础/02 tmux和vim/常用命令介绍.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c02b6f4a1d91780c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10 Linux基础/02 tmux和vim/作业&答案.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -70,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255
+    "width": 255,
+    "collapsed": true
   },
   "right": {
     "id": "a023e450ecd8161f",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 模板/学习总结模板.md",
+                "file": "10 Linux基础/02 tmux和vim/常用命令介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 模板/学习总结模板.md",
+                "file": "10 Linux基础/02 tmux和vim/常用命令介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 模板/学习总结模板.md"
+                "file": "10 Linux基础/02 tmux和vim/常用命令介绍.md"
               }
             }
           },
@@ -148,15 +162,15 @@
   },
   "active": "f65745d65be63a9b",
   "lastOpenFiles": [
-    "06 数据结构题目集/01《数据结构》题目集/编程题/实例1.1 最大子列和问题.md",
-    "02 算法思想分类/12 动态规划.md",
-    "09 每日一题/3564. 日期类 - AcWing题库.md",
-    "09 每日一题/3619. 日期 - AcWing题库.md",
-    "09 每日一题/3477. 简单排序 - AcWing题库.md",
-    "08 文章/理解递归反转链表.md",
-    "08 文章/计算星期数.md",
-    "09 每日一题/3715. 最少交换次数 - AcWing题库.md",
-    "02 算法思想分类/99 数据结构的实现.md",
-    "02 算法思想分类/01 分治.md"
+    "10 Linux基础/02 tmux和vim/作业&答案.md",
+    "10 Linux基础/02 tmux和vim/常用命令介绍.md",
+    "10 Linux基础/01 常用文件管理命令/作业&答案.md",
+    "10 Linux基础/01 常用文件管理命令/常用命令介绍.md",
+    "英语词汇/PAT甲级词汇/01 第一章 字符串处理.md",
+    "05 PAT甲级/01 第一章 字符串处理/1036 Boys vs Girls.md",
+    "05 PAT甲级/01 第一章 字符串处理/1006 Sign In and Sign Out.md",
+    "05 PAT甲级/01 第一章 字符串处理/1035 Password.md",
+    "05 PAT甲级/13 第十三章 链表/1161 Merging Linked Lists.md",
+    "学习总结/2022.07.14_周四.md"
   ]
 }

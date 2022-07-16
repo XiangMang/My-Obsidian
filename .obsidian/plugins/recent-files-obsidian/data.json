@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "常用命令介绍",
+      "path": "10 Linux基础/02 tmux和vim/常用命令介绍.md"
+    },
+    {
+      "basename": "作业&答案",
+      "path": "10 Linux基础/02 tmux和vim/作业&答案.md"
+    },
+    {
+      "basename": "作业&答案",
+      "path": "10 Linux基础/01 常用文件管理命令/作业&答案.md"
+    },
+    {
+      "basename": "常用命令介绍",
+      "path": "10 Linux基础/01 常用文件管理命令/常用命令介绍.md"
+    },
+    {
+      "basename": "01 第一章 字符串处理",
+      "path": "英语词汇/PAT甲级词汇/01 第一章 字符串处理.md"
+    },
+    {
+      "basename": "1036 Boys vs Girls",
+      "path": "05 PAT甲级/01 第一章 字符串处理/1036 Boys vs Girls.md"
+    },
+    {
+      "basename": "1006 Sign In and Sign Out",
+      "path": "05 PAT甲级/01 第一章 字符串处理/1006 Sign In and Sign Out.md"
+    },
+    {
+      "basename": "1035 Password",
+      "path": "05 PAT甲级/01 第一章 字符串处理/1035 Password.md"
+    },
+    {
+      "basename": "1161 Merging Linked Lists",
+      "path": "05 PAT甲级/13 第十三章 链表/1161 Merging Linked Lists.md"
+    },
+    {
+      "basename": "2022.07.14_周四",
+      "path": "学习总结/2022.07.14_周四.md"
+    },
+    {
       "basename": "学习总结模板",
       "path": "01 模板/学习总结模板.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "6-1 单链表逆转",
       "path": "06 数据结构题目集/03 数据结构与算法题目集/函数题/6-1 单链表逆转.md"
-    },
-    {
-      "basename": "2022.06.29_周三",
-      "path": "学习总结/2022.06.29_周三.md"
-    },
-    {
-      "basename": "1161 Merging Linked Lists",
-      "path": "05 PAT甲级/1161 Merging Linked Lists.md"
-    },
-    {
-      "basename": "03 vector or pair",
-      "path": "03 STL与函数用法分类/03 vector or pair.md"
-    },
-    {
-      "basename": "习题2.5 两个有序链表序列的合并",
-      "path": "06 数据结构题目集/01《数据结构》题目集/函数题/习题2.5 两个有序链表序列的合并.md"
-    },
-    {
-      "basename": "1001 A+B Format",
-      "path": "05 PAT甲级/01 第一章 字符串处理/1001 A+B Format.md"
-    },
-    {
-      "basename": "习题1.9 有序数组的插入",
-      "path": "06 数据结构题目集/01《数据结构》题目集/函数题/习题1.9 有序数组的插入.md"
-    },
-    {
-      "basename": "习题2.4 递增的整数序列链表的插入",
-      "path": "06 数据结构题目集/01《数据结构》题目集/函数题/习题2.4 递增的整数序列链表的插入.md"
-    },
-    {
-      "basename": "习题2.7 弹球距离 (pintia.cn)",
-      "path": "06 数据结构题目集/01《数据结构》题目集/函数题/习题2.7 弹球距离 (pintia.cn).md"
-    },
-    {
-      "basename": "习题2.6 递归求简单交错幂级数的部分和",
-      "path": "06 数据结构题目集/01《数据结构》题目集/函数题/习题2.6 递归求简单交错幂级数的部分和.md"
-    },
-    {
-      "basename": "习题1.8 二分查找",
-      "path": "06 数据结构题目集/01《数据结构》题目集/函数题/习题1.8 二分查找.md"
     }
   ],
   "omittedPaths": [],
