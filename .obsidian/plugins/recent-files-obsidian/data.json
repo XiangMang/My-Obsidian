@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20220716134346",
+      "path": "Pasted image 20220716134346.png"
+    },
+    {
+      "basename": "如何在git bash中使用tmux",
+      "path": "11 经验总结/如何在git bash中使用tmux.md"
+    },
+    {
+      "basename": "常用命令介绍",
+      "path": "10 Linux基础/04 ssh/常用命令介绍.md"
+    },
+    {
       "basename": "常用命令介绍",
       "path": "10 Linux基础/02 tmux和vim/常用命令介绍.md"
+    },
+    {
+      "basename": "2022.07.17_周日",
+      "path": "学习总结/2022.07.17_周日.md"
+    },
+    {
+      "basename": "作业&答案",
+      "path": "10 Linux基础/04 ssh/作业&答案.md"
     },
     {
       "basename": "作业&答案",
@@ -35,10 +55,6 @@
     {
       "basename": "1161 Merging Linked Lists",
       "path": "05 PAT甲级/13 第十三章 链表/1161 Merging Linked Lists.md"
-    },
-    {
-      "basename": "2022.07.14_周四",
-      "path": "学习总结/2022.07.14_周四.md"
     },
     {
       "basename": "学习总结模板",
@@ -183,22 +199,6 @@
     {
       "basename": "6-5 链式表操作集",
       "path": "06 数据结构题目集/03 数据结构与算法题目集/函数题/6-5 链式表操作集.md"
-    },
-    {
-      "basename": "6-4 链式表的按序号查找",
-      "path": "06 数据结构题目集/03 数据结构与算法题目集/函数题/6-4 链式表的按序号查找.md"
-    },
-    {
-      "basename": "6-3 求链式表的表长",
-      "path": "06 数据结构题目集/03 数据结构与算法题目集/函数题/6-3 求链式表的表长.md"
-    },
-    {
-      "basename": "6-2 顺序表操作集",
-      "path": "06 数据结构题目集/03 数据结构与算法题目集/函数题/6-2 顺序表操作集.md"
-    },
-    {
-      "basename": "6-1 单链表逆转",
-      "path": "06 数据结构题目集/03 数据结构与算法题目集/函数题/6-1 单链表逆转.md"
     }
   ],
   "omittedPaths": [],
