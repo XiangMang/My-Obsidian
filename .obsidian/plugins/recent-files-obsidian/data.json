@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "1061 Dating",
+      "path": "05 PAT甲级/01 第一章 字符串处理/1061 Dating.md"
+    },
+    {
       "basename": "13 hash",
       "path": "02 算法思想分类/13 hash.md"
+    },
+    {
+      "basename": "05 unordered_set",
+      "path": "03 STL与函数用法分类/05 unordered_set.md"
+    },
+    {
+      "basename": "04 unordered_map",
+      "path": "03 STL与函数用法分类/04 unordered_map.md"
+    },
+    {
+      "basename": "03 vector or pair",
+      "path": "03 STL与函数用法分类/03 vector or pair.md"
+    },
+    {
+      "basename": "02 memcpy()",
+      "path": "03 STL与函数用法分类/02 memcpy().md"
+    },
+    {
+      "basename": "1050 String Subtraction",
+      "path": "05 PAT甲级/01 第一章 字符串处理/1050 String Subtraction.md"
+    },
+    {
+      "basename": "1036 Boys vs Girls",
+      "path": "05 PAT甲级/01 第一章 字符串处理/1036 Boys vs Girls.md"
+    },
+    {
+      "basename": "1071 Speech Patterns",
+      "path": "05 PAT甲级/01 第一章 字符串处理/1071 Speech Patterns.md"
     },
     {
       "basename": "12 动态规划",
@@ -19,10 +51,6 @@
     {
       "basename": "99 数据结构的实现",
       "path": "02 算法思想分类/99 数据结构的实现.md"
-    },
-    {
-      "basename": "1050 String Subtraction",
-      "path": "05 PAT甲级/01 第一章 字符串处理/1050 String Subtraction.md"
     },
     {
       "basename": "Pasted image 20220716134346",
@@ -63,10 +91,6 @@
     {
       "basename": "01 第一章 字符串处理",
       "path": "英语词汇/PAT甲级词汇/01 第一章 字符串处理.md"
-    },
-    {
-      "basename": "1036 Boys vs Girls",
-      "path": "05 PAT甲级/01 第一章 字符串处理/1036 Boys vs Girls.md"
     },
     {
       "basename": "1006 Sign In and Sign Out",
@@ -175,30 +199,6 @@
     {
       "basename": "796. 子矩阵的和",
       "path": "04 算法基础课/01 第一讲 基础算法/05 前缀和/796. 子矩阵的和.md"
-    },
-    {
-      "basename": "795. 前缀和",
-      "path": "04 算法基础课/01 第一讲 基础算法/05 前缀和/795. 前缀和.md"
-    },
-    {
-      "basename": "798. 差分矩阵",
-      "path": "04 算法基础课/01 第一讲 基础算法/06 差分/798. 差分矩阵.md"
-    },
-    {
-      "basename": "801. 二进制中1的个数",
-      "path": "04 算法基础课/01 第一讲 基础算法/09 位运算/801. 二进制中1的个数.md"
-    },
-    {
-      "basename": "800. 数组元素的目标和",
-      "path": "04 算法基础课/01 第一讲 基础算法/08 双指针/800. 数组元素的目标和.md"
-    },
-    {
-      "basename": "2816. 判断子序列",
-      "path": "04 算法基础课/01 第一讲 基础算法/08 双指针/2816. 判断子序列.md"
-    },
-    {
-      "basename": "790. 数的三次方根",
-      "path": "04 算法基础课/01 第一讲 基础算法/03 二分/790. 数的三次方根.md"
     }
   ],
   "omittedPaths": [],
