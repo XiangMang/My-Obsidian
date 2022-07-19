@@ -1,8 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "1023 Have Fun with Numbers",
+      "path": "05 PAT甲级/02 第二章 高精度/1023 Have Fun with Numbers.md"
+    },
+    {
+      "basename": "07 map",
+      "path": "03 STL与函数用法分类/07 map.md"
+    },
+    {
+      "basename": "1016 Phone Bills",
+      "path": "05 PAT甲级/01 第一章 字符串处理/1016 Phone Bills.md"
+    },
+    {
+      "basename": "06 sprintf()",
+      "path": "03 STL与函数用法分类/06 sprintf().md"
+    },
+    {
+      "basename": "03 高精度",
+      "path": "02 算法思想分类/03 高精度.md"
+    },
+    {
+      "basename": "793. 高精度乘法",
+      "path": "04 算法基础课/01 第一讲 基础算法/04 高精度/793. 高精度乘法.md"
+    },
+    {
+      "basename": "791. 高精度加法",
+      "path": "04 算法基础课/01 第一讲 基础算法/04 高精度/791. 高精度加法.md"
+    },
+    {
+      "basename": "1009 Product of Polynomials",
+      "path": "05 PAT甲级/02 第二章 高精度/1009 Product of Polynomials.md"
+    },
+    {
+      "basename": "1002 A+B for Polynomials",
+      "path": "05 PAT甲级/02 第二章 高精度/1002 A+B for Polynomials.md"
+    },
+    {
+      "basename": "1001 A+B Format",
+      "path": "05 PAT甲级/01 第一章 字符串处理/1001 A+B Format.md"
+    },
+    {
+      "basename": "备忘录",
+      "path": "备忘录.md"
+    },
+    {
+      "basename": "Pasted image 20220716134346",
+      "path": "Pasted image 20220716134346.png"
+    },
+    {
+      "basename": "3619. 日期 - AcWing题库",
+      "path": "09 每日一题/3619. 日期 - AcWing题库.md"
+    },
+    {
       "basename": "1061 Dating",
       "path": "05 PAT甲级/01 第一章 字符串处理/1061 Dating.md"
+    },
+    {
+      "basename": "1071 Speech Patterns",
+      "path": "05 PAT甲级/01 第一章 字符串处理/1071 Speech Patterns.md"
+    },
+    {
+      "basename": "10 模拟",
+      "path": "02 算法思想分类/10 模拟.md"
+    },
+    {
+      "basename": "习题2.2 数组循环左移",
+      "path": "06 数据结构题目集/01《数据结构》题目集/编程题/习题2.2 数组循环左移.md"
     },
     {
       "basename": "13 hash",
@@ -33,10 +97,6 @@
       "path": "05 PAT甲级/01 第一章 字符串处理/1036 Boys vs Girls.md"
     },
     {
-      "basename": "1071 Speech Patterns",
-      "path": "05 PAT甲级/01 第一章 字符串处理/1071 Speech Patterns.md"
-    },
-    {
       "basename": "12 动态规划",
       "path": "02 算法思想分类/12 动态规划.md"
     },
@@ -51,10 +111,6 @@
     {
       "basename": "99 数据结构的实现",
       "path": "02 算法思想分类/99 数据结构的实现.md"
-    },
-    {
-      "basename": "Pasted image 20220716134346",
-      "path": "Pasted image 20220716134346.png"
     },
     {
       "basename": "如何在git bash中使用tmux",
@@ -117,10 +173,6 @@
       "path": "09 每日一题/3564. 日期类 - AcWing题库.md"
     },
     {
-      "basename": "3619. 日期 - AcWing题库",
-      "path": "09 每日一题/3619. 日期 - AcWing题库.md"
-    },
-    {
       "basename": "3477. 简单排序 - AcWing题库",
       "path": "09 每日一题/3477. 简单排序 - AcWing题库.md"
     },
@@ -141,64 +193,12 @@
       "path": "02 算法思想分类/01 分治.md"
     },
     {
-      "basename": "03 高精度",
-      "path": "02 算法思想分类/03 高精度.md"
-    },
-    {
       "basename": "03 栈的顺序存储实现",
       "path": "06 数据结构题目集/05 数据结构的实现/03 栈的顺序存储实现.md"
     },
     {
       "basename": "01 线性表的顺序存储实现",
       "path": "06 数据结构题目集/05 数据结构的实现/01 线性表的顺序存储实现.md"
-    },
-    {
-      "basename": "02 线性表的链式存储实现",
-      "path": "06 数据结构题目集/05 数据结构的实现/02 线性表的链式存储实现.md"
-    },
-    {
-      "basename": "792. 高精度减法",
-      "path": "04 算法基础课/01 第一讲 基础算法/04 高精度/792. 高精度减法.md"
-    },
-    {
-      "basename": "791. 高精度加法",
-      "path": "04 算法基础课/01 第一讲 基础算法/04 高精度/791. 高精度加法.md"
-    },
-    {
-      "basename": "788. 逆序对的数量",
-      "path": "04 算法基础课/01 第一讲 基础算法/02 归并排序/788. 逆序对的数量.md"
-    },
-    {
-      "basename": "787. 归并排序",
-      "path": "04 算法基础课/01 第一讲 基础算法/02 归并排序/787. 归并排序.md"
-    },
-    {
-      "basename": "786. 第k个数",
-      "path": "04 算法基础课/01 第一讲 基础算法/01 快速排序/786. 第k个数.md"
-    },
-    {
-      "basename": "785. 快速排序",
-      "path": "04 算法基础课/01 第一讲 基础算法/01 快速排序/785. 快速排序.md"
-    },
-    {
-      "basename": "794. 高精度除法",
-      "path": "04 算法基础课/01 第一讲 基础算法/04 高精度/794. 高精度除法.md"
-    },
-    {
-      "basename": "793. 高精度乘法",
-      "path": "04 算法基础课/01 第一讲 基础算法/04 高精度/793. 高精度乘法.md"
-    },
-    {
-      "basename": "799. 最长连续不重复子序列",
-      "path": "04 算法基础课/01 第一讲 基础算法/08 双指针/799. 最长连续不重复子序列.md"
-    },
-    {
-      "basename": "797. 差分",
-      "path": "04 算法基础课/01 第一讲 基础算法/06 差分/797. 差分.md"
-    },
-    {
-      "basename": "796. 子矩阵的和",
-      "path": "04 算法基础课/01 第一讲 基础算法/05 前缀和/796. 子矩阵的和.md"
     }
   ],
   "omittedPaths": [],

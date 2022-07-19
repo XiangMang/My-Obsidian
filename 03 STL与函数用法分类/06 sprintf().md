@@ -1,2 +1,2 @@
-# 模拟
+# sprintf()
 1. [[1016 Phone Bills]]
