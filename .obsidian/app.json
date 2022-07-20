@@ -6,5 +6,7 @@
   "showLineNumber": true,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "01 模板/图片库"
 }
