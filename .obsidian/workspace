@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "学习总结/2022.07.20_周三.md",
+            "file": "05 PAT甲级/03 第三章 进位制/02 1015 Reversible Primes.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#模拟",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习总结/2022.07.20_周三.md",
+                "file": "05 PAT甲级/03 第三章 进位制/02 1015 Reversible Primes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习总结/2022.07.20_周三.md",
+                "file": "05 PAT甲级/03 第三章 进位制/02 1015 Reversible Primes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习总结/2022.07.20_周三.md"
+                "file": "05 PAT甲级/03 第三章 进位制/02 1015 Reversible Primes.md"
               }
             }
           },
@@ -143,20 +143,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "bb55a0f4ab051286",
   "lastOpenFiles": [
-    "01 模板/学习总结模板.md",
-    "01 模板/AcWing题解模板.md",
+    "02 算法思想分类/14 秦九韶算法.md",
+    "02 算法思想分类/01 分治.md",
+    "05 PAT甲级/03 第三章 进位制/02 1015 Reversible Primes.md",
+    "02 算法思想分类/02 二分.md",
+    "05 PAT甲级/03 第三章 进位制/01 1010 Radix.md",
+    "学习总结/2022.07.21_周四.md",
     "学习总结/2022.07.20_周三.md",
-    "04 算法基础课/04 第四讲 数学知识/01 质数/866. 试除法判定质数.md",
-    "05 PAT甲级/04 第四章 排序/01 1012 The Best Rank.md",
-    "11 经验总结/关于二分模板的使用.md",
-    "02 算法思想分类/13 hash.md",
-    "02 算法思想分类/99 数据结构的实现.md",
-    "03 STL与函数用法分类/07 map.md",
-    "03 STL与函数用法分类/09 round().md"
+    "04 算法基础课/01 第一讲 基础算法/04 高精度/791. 高精度加法.md",
+    "01 模板/学习总结模板.md",
+    "01 模板/AcWing题解模板.md"
   ]
 }

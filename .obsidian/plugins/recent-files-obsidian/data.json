@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "02 1015 Reversible Primes",
+      "path": "05 PAT甲级/03 第三章 进位制/02 1015 Reversible Primes.md"
+    },
+    {
+      "basename": "14 秦九韶算法",
+      "path": "02 算法思想分类/14 秦九韶算法.md"
+    },
+    {
+      "basename": "01 分治",
+      "path": "02 算法思想分类/01 分治.md"
+    },
+    {
+      "basename": "02 二分",
+      "path": "02 算法思想分类/02 二分.md"
+    },
+    {
+      "basename": "01 1010 Radix",
+      "path": "05 PAT甲级/03 第三章 进位制/01 1010 Radix.md"
+    },
+    {
+      "basename": "2022.07.21_周四",
+      "path": "学习总结/2022.07.21_周四.md"
+    },
+    {
       "basename": "2022.07.20_周三",
       "path": "学习总结/2022.07.20_周三.md"
+    },
+    {
+      "basename": "791. 高精度加法",
+      "path": "04 算法基础课/01 第一讲 基础算法/04 高精度/791. 高精度加法.md"
     },
     {
       "basename": "学习总结模板",
@@ -117,10 +145,6 @@
       "path": "05 PAT甲级/01 第一章 字符串处理/01 1001 A+B Format.md"
     },
     {
-      "basename": "791. 高精度加法",
-      "path": "04 算法基础课/01 第一讲 基础算法/04 高精度/791. 高精度加法.md"
-    },
-    {
       "basename": "03 高精度",
       "path": "02 算法思想分类/03 高精度.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "03 vector or pair",
       "path": "03 STL与函数用法分类/03 vector or pair.md"
-    },
-    {
-      "basename": "02 memcpy()",
-      "path": "03 STL与函数用法分类/02 memcpy().md"
-    },
-    {
-      "basename": "12 动态规划",
-      "path": "02 算法思想分类/12 动态规划.md"
-    },
-    {
-      "basename": "08 离散化",
-      "path": "02 算法思想分类/08 离散化.md"
-    },
-    {
-      "basename": "07 位运算",
-      "path": "02 算法思想分类/07 位运算.md"
-    },
-    {
-      "basename": "如何在git bash中使用tmux",
-      "path": "11 经验总结/如何在git bash中使用tmux.md"
-    },
-    {
-      "basename": "常用命令介绍",
-      "path": "10 Linux基础/04 ssh/常用命令介绍.md"
     }
   ],
   "omittedPaths": [],
