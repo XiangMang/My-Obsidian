@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "05 PAT甲级/03 第三章 进位制/02 1015 Reversible Primes.md",
-            "mode": "preview",
+            "file": "05 PAT甲级/03 第三章 进位制/05 1100 Mars Numbers.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 PAT甲级/03 第三章 进位制/02 1015 Reversible Primes.md",
+                "file": "05 PAT甲级/03 第三章 进位制/05 1100 Mars Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 PAT甲级/03 第三章 进位制/02 1015 Reversible Primes.md",
+                "file": "05 PAT甲级/03 第三章 进位制/05 1100 Mars Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 PAT甲级/03 第三章 进位制/02 1015 Reversible Primes.md"
+                "file": "05 PAT甲级/03 第三章 进位制/05 1100 Mars Numbers.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "bb55a0f4ab051286",
   "lastOpenFiles": [
+    "05 PAT甲级/03 第三章 进位制/04 1100 Mars Numbers.md",
+    "05 PAT甲级/03 第三章 进位制/03 1027 Colors in Mars.md",
+    "05 PAT甲级/03 第三章 进位制/02 1015 Reversible Primes.md",
+    "05 PAT甲级/03 第三章 进位制/01 1010 Radix.md",
     "02 算法思想分类/14 秦九韶算法.md",
     "02 算法思想分类/01 分治.md",
-    "05 PAT甲级/03 第三章 进位制/02 1015 Reversible Primes.md",
     "02 算法思想分类/02 二分.md",
-    "05 PAT甲级/03 第三章 进位制/01 1010 Radix.md",
     "学习总结/2022.07.21_周四.md",
     "学习总结/2022.07.20_周三.md",
-    "04 算法基础课/01 第一讲 基础算法/04 高精度/791. 高精度加法.md",
-    "01 模板/学习总结模板.md",
-    "01 模板/AcWing题解模板.md"
+    "04 算法基础课/01 第一讲 基础算法/04 高精度/791. 高精度加法.md"
   ]
 }

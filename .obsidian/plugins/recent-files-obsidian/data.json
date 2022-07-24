@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "05 1100 Mars Numbers",
+      "path": "05 PAT甲级/03 第三章 进位制/05 1100 Mars Numbers.md"
+    },
+    {
+      "basename": "04 1100 Mars Numbers",
+      "path": "05 PAT甲级/03 第三章 进位制/04 1100 Mars Numbers.md"
+    },
+    {
+      "basename": "03 1027 Colors in Mars",
+      "path": "05 PAT甲级/03 第三章 进位制/03 1027 Colors in Mars.md"
+    },
+    {
       "basename": "02 1015 Reversible Primes",
       "path": "05 PAT甲级/03 第三章 进位制/02 1015 Reversible Primes.md"
+    },
+    {
+      "basename": "01 1010 Radix",
+      "path": "05 PAT甲级/03 第三章 进位制/01 1010 Radix.md"
     },
     {
       "basename": "14 秦九韶算法",
@@ -15,10 +31,6 @@
     {
       "basename": "02 二分",
       "path": "02 算法思想分类/02 二分.md"
-    },
-    {
-      "basename": "01 1010 Radix",
-      "path": "05 PAT甲级/03 第三章 进位制/01 1010 Radix.md"
     },
     {
       "basename": "2022.07.21_周四",
@@ -187,18 +199,6 @@
     {
       "basename": "习题2.2 数组循环左移",
       "path": "06 数据结构题目集/01《数据结构》题目集/编程题/习题2.2 数组循环左移.md"
-    },
-    {
-      "basename": "05 unordered_set",
-      "path": "03 STL与函数用法分类/05 unordered_set.md"
-    },
-    {
-      "basename": "04 unordered_map",
-      "path": "03 STL与函数用法分类/04 unordered_map.md"
-    },
-    {
-      "basename": "03 vector or pair",
-      "path": "03 STL与函数用法分类/03 vector or pair.md"
     }
   ],
   "omittedPaths": [],
