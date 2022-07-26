@@ -1,5 +1,6 @@
 {
   "cssTheme": "Atom",
   "translucency": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 16
 }

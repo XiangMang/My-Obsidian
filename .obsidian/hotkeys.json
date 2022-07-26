@@ -24,5 +24,14 @@
       "key": "\\"
     }
   ],
-  "editor:toggle-italics": []
+  "editor:toggle-italics": [],
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "6"
+    }
+  ]
 }
