@@ -2,7 +2,7 @@
 
 [1499. 数字图书馆 - AcWing题库](https://www.acwing.com/problem/content/1501/)
 
-#模拟 #set #sstream 
+#模拟 #set #sstream #排序
 
 A Digital Library contains millions of books, stored according to their titles, authors, key words of their abstracts, publishers, and published years. Each book is assigned an unique 7-digit number as its ID. Given any query from a reader, you are supposed to output the resulting books, sorted in increasing order of their ID's.
 

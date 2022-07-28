@@ -2,7 +2,7 @@
 
 [1505. 列表排序 - AcWing题库](https://www.acwing.com/problem/content/1507/)
 
-#vector #c-str 
+#vector #c-str #排序
 
 Excel can sort records according to any column. Now you are supposed to imitate this function.
 
@@ -188,5 +188,7 @@ int main(void){
 }
 ```
 
+
+相关文章:[[升序，降序，非升序，非降序]]
 
 *2022-07-26 周二*

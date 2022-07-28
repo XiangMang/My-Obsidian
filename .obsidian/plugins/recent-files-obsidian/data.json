@@ -1,16 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "01 1001 A+B Format",
-      "path": "03 PAT甲级/01 第一章 字符串处理/01 1001 A+B Format.md"
+      "basename": "828. 模拟栈",
+      "path": "02 算法基础课/02 第二讲 数据结构/03 栈/828. 模拟栈.md"
+    },
+    {
+      "basename": "785. 快速排序",
+      "path": "02 算法基础课/01 第一讲 基础算法/01 快速排序/785. 快速排序.md"
+    },
+    {
+      "basename": "786. 第k个数",
+      "path": "02 算法基础课/01 第一讲 基础算法/01 快速排序/786. 第k个数.md"
+    },
+    {
+      "basename": "826. 单链表",
+      "path": "02 算法基础课/02 第二讲 数据结构/01 单链表/826. 单链表.md"
+    },
+    {
+      "basename": "827. 双链表",
+      "path": "02 算法基础课/02 第二讲 数据结构/02 双链表/827. 双链表.md"
+    },
+    {
+      "basename": "03 1085 Perfect Sequence",
+      "path": "03 PAT甲级/14 第十四章 基础算法与数据结构/03 1085 Perfect Sequence.md"
+    },
+    {
+      "basename": "789. 数的范围",
+      "path": "02 算法基础课/01 第一讲 基础算法/03 二分/789. 数的范围.md"
+    },
+    {
+      "basename": "02 1046 Shortest Distance",
+      "path": "03 PAT甲级/14 第十四章 基础算法与数据结构/02 1046 Shortest Distance.md"
+    },
+    {
+      "basename": "未完成",
+      "path": "03 PAT甲级/04 第四章 排序/未完成.md"
+    },
+    {
+      "basename": "01 1029 Median",
+      "path": "03 PAT甲级/14 第十四章 基础算法与数据结构/01 1029 Median.md"
+    },
+    {
+      "basename": "11 1040 Longest Symmetric String",
+      "path": "03 PAT甲级/14 第十四章 基础算法与数据结构/11 1040 Longest Symmetric String.md"
+    },
+    {
+      "basename": "未完成",
+      "path": "03 PAT甲级/01 第一章 字符串处理/未完成.md"
+    },
+    {
+      "basename": "C++结构体的构造函数",
+      "path": "98 文章/C++结构体的构造函数.md"
+    },
+    {
+      "basename": "04 1028 List Sorting",
+      "path": "03 PAT甲级/04 第四章 排序/04 1028 List Sorting.md"
     },
     {
       "basename": "05 1052 Linked List Sorting",
       "path": "03 PAT甲级/04 第四章 排序/05 1052 Linked List Sorting.md"
     },
     {
-      "basename": "01 第一章 字符串处理",
-      "path": "英语词汇/PAT甲级词汇/01 第一章 字符串处理.md"
+      "basename": "升序，降序，非升序，非降序",
+      "path": "98 文章/升序，降序，非升序，非降序.md"
+    },
+    {
+      "basename": "6-1 单链表逆转",
+      "path": "05 数据结构题目集/03 数据结构与算法题目集/函数题/6-1 单链表逆转.md"
+    },
+    {
+      "basename": "理解递归反转链表",
+      "path": "98 文章/理解递归反转链表.md"
+    },
+    {
+      "basename": "基础实验3-2.2 单链表分段逆转",
+      "path": "05 数据结构题目集/02《数据结构实验指导》题目集/01 函数题/基础实验3-2.2 单链表分段逆转.md"
+    },
+    {
+      "basename": "06 1075 PAT Judge",
+      "path": "03 PAT甲级/04 第四章 排序/06 1075 PAT Judge.md"
+    },
+    {
+      "basename": "03 1025 PAT Ranking",
+      "path": "03 PAT甲级/04 第四章 排序/03 1025 PAT Ranking.md"
+    },
+    {
+      "basename": "02 1022 Digital Library",
+      "path": "03 PAT甲级/04 第四章 排序/02 1022 Digital Library.md"
+    },
+    {
+      "basename": "01 1012 The Best Rank",
+      "path": "03 PAT甲级/04 第四章 排序/01 1012 The Best Rank.md"
+    },
+    {
+      "basename": "3619. 日期 - AcWing题库",
+      "path": "06 每日一题/3619. 日期 - AcWing题库.md"
+    },
+    {
+      "basename": "计算星期数",
+      "path": "98 文章/计算星期数.md"
+    },
+    {
+      "basename": "01 1001 A+B Format",
+      "path": "03 PAT甲级/01 第一章 字符串处理/01 1001 A+B Format.md"
     },
     {
       "basename": "04 1035 Password",
@@ -27,26 +119,6 @@
     {
       "basename": "09 1016 Phone Bills",
       "path": "03 PAT甲级/01 第一章 字符串处理/09 1016 Phone Bills.md"
-    },
-    {
-      "basename": "04 1028 List Sorting",
-      "path": "03 PAT甲级/04 第四章 排序/04 1028 List Sorting.md"
-    },
-    {
-      "basename": "01 1012 The Best Rank",
-      "path": "03 PAT甲级/04 第四章 排序/01 1012 The Best Rank.md"
-    },
-    {
-      "basename": "827. 双链表",
-      "path": "02 算法基础课/02 第二讲 数据结构/02 双链表/827. 双链表.md"
-    },
-    {
-      "basename": "826. 单链表",
-      "path": "02 算法基础课/02 第二讲 数据结构/01 单链表/826. 单链表.md"
-    },
-    {
-      "basename": "基础实验3-2.2 单链表分段逆转",
-      "path": "05 数据结构题目集/02《数据结构实验指导》题目集/01 函数题/基础实验3-2.2 单链表分段逆转.md"
     },
     {
       "basename": "习题3.5 求链表的倒数第m个元素",
@@ -93,10 +165,6 @@
       "path": "04 蓝桥杯C++AB组辅导课/01 第一讲 递归与递推/01 95. 费解的开关.md"
     },
     {
-      "basename": "01 1040 Longest Symmetric String",
-      "path": "03 PAT甲级/14 第十四章 基础算法与数据结构/01 1040 Longest Symmetric String.md"
-    },
-    {
       "basename": "01 1161 Merging Linked Lists",
       "path": "03 PAT甲级/13 第十三章 链表/01 1161 Merging Linked Lists.md"
     },
@@ -131,74 +199,6 @@
     {
       "basename": "04 1024 Palindromic Number",
       "path": "03 PAT甲级/02 第二章 高精度/04 1024 Palindromic Number.md"
-    },
-    {
-      "basename": "03 1023 Have Fun with Numbers",
-      "path": "03 PAT甲级/02 第二章 高精度/03 1023 Have Fun with Numbers.md"
-    },
-    {
-      "basename": "02 1009 Product of Polynomials",
-      "path": "03 PAT甲级/02 第二章 高精度/02 1009 Product of Polynomials.md"
-    },
-    {
-      "basename": "01 1002 A+B for Polynomial",
-      "path": "03 PAT甲级/02 第二章 高精度/01 1002 A+B for Polynomial.md"
-    },
-    {
-      "basename": "07 1071 Speech Patterns",
-      "path": "03 PAT甲级/01 第一章 字符串处理/07 1071 Speech Patterns.md"
-    },
-    {
-      "basename": "05 1036 Boys vs Girls",
-      "path": "03 PAT甲级/01 第一章 字符串处理/05 1036 Boys vs Girls.md"
-    },
-    {
-      "basename": "03 1006 Sign In and Sign Out",
-      "path": "03 PAT甲级/01 第一章 字符串处理/03 1006 Sign In and Sign Out.md"
-    },
-    {
-      "basename": "02 1005 Spell It Right",
-      "path": "03 PAT甲级/01 第一章 字符串处理/02 1005 Spell It Right.md"
-    },
-    {
-      "basename": "866. 试除法判定质数",
-      "path": "02 算法基础课/04 第四讲 数学知识/01 质数/866. 试除法判定质数.md"
-    },
-    {
-      "basename": "803. 区间合并",
-      "path": "02 算法基础课/01 第一讲 基础算法/11 区间合并/803. 区间合并.md"
-    },
-    {
-      "basename": "802. 区间和",
-      "path": "02 算法基础课/01 第一讲 基础算法/10 离散化/802. 区间和.md"
-    },
-    {
-      "basename": "801. 二进制中1的个数",
-      "path": "02 算法基础课/01 第一讲 基础算法/09 位运算/801. 二进制中1的个数.md"
-    },
-    {
-      "basename": "2816. 判断子序列",
-      "path": "02 算法基础课/01 第一讲 基础算法/08 双指针/2816. 判断子序列.md"
-    },
-    {
-      "basename": "800. 数组元素的目标和",
-      "path": "02 算法基础课/01 第一讲 基础算法/08 双指针/800. 数组元素的目标和.md"
-    },
-    {
-      "basename": "799. 最长连续不重复子序列",
-      "path": "02 算法基础课/01 第一讲 基础算法/08 双指针/799. 最长连续不重复子序列.md"
-    },
-    {
-      "basename": "798. 差分矩阵",
-      "path": "02 算法基础课/01 第一讲 基础算法/06 差分/798. 差分矩阵.md"
-    },
-    {
-      "basename": "797. 差分",
-      "path": "02 算法基础课/01 第一讲 基础算法/06 差分/797. 差分.md"
-    },
-    {
-      "basename": "796. 子矩阵的和",
-      "path": "02 算法基础课/01 第一讲 基础算法/05 前缀和/796. 子矩阵的和.md"
     }
   ],
   "omittedPaths": [],

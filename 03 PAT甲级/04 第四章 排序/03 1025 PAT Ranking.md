@@ -2,7 +2,7 @@
 
 [1502. PAT 排名 - AcWing题库](https://www.acwing.com/problem/content/1504/)
 
-#operator #vector 
+#operator #vector #排序
 
 Programming Ability Test (PAT) is organized by the College of Computer Science and Technology of Zhejiang University. Each test is supposed to run simultaneously in several places, and the ranklists will be merged immediately after the test. Now it is your job to write a program to correctly merge all the ranklists and generate the final rank.
 

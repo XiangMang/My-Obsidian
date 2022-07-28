@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "tag:unordered_map",
+  "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"01 模板\"",
@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 16382065
       }
+    },
+    {
+      "query": "path:\"98 文章\"",
+      "color": {
+        "a": 1,
+        "rgb": 40913
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 13.6342042755344,
   "linkStrength": 1,
   "linkDistance": 212,
-  "scale": 0.5832220551566912,
+  "scale": 0.2505977395420896,
   "close": true
 }

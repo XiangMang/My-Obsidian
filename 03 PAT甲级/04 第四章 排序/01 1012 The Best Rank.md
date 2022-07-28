@@ -2,7 +2,7 @@
 
 [1484. 最佳排名 - AcWing题库](https://www.acwing.com/problem/content/1486/)
 
-#hash #二分 #unordered_map 
+#hash #二分 #unordered_map #排序
 
 To evaluate the performance of our first year CS majored students, we consider their grades of three courses only: `C` - C Programming Language, `M` - Mathematics (Calculus or Linear Algrbra), and `E` - English. At the mean time, we encourage students by emphasizing on their best ranks -- that is, among the four ranks with respect to the three courses and the average grade, we print the best rank for each student.
 

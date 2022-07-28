@@ -104,7 +104,7 @@ int main(void){
 
 
 相关题目
-1. [[01 1040 Longest Symmetric String]]
+1. [[11 1040 Longest Symmetric String]]
 2. [[06 1136 A Delayed Palindrome]]
 
 
