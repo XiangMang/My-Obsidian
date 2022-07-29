@@ -2,7 +2,7 @@
 
 [1561. PAT 评测 - AcWing题库](https://www.acwing.com/problem/content/1563/)
 
-#排序 #构造函数 #unordered_map #vector #c-str 
+#排序 #构造函数 #unordered_map #c-str #vector 
 
 The ranklist of PAT is generated from the status list, which shows the scores of the submissions. This time you are supposed to generate the ranklist for PAT.
 

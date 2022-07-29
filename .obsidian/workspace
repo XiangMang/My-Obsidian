@@ -7,8 +7,13 @@
         "id": "a963d79e43f7ed67",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "02 算法基础课/03 第三讲 搜索与图论/02 BFS/844. 走迷宫.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "全",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 算法基础课/03 第三讲 搜索与图论/02 BFS/844. 走迷宫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 算法基础课/03 第三讲 搜索与图论/02 BFS/844. 走迷宫.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 算法基础课/03 第三讲 搜索与图论/02 BFS/844. 走迷宫.md"
+              }
             }
           },
           {
@@ -130,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -139,15 +148,15 @@
   },
   "active": "a963d79e43f7ed67",
   "lastOpenFiles": [
+    "02 算法基础课/03 第三讲 搜索与图论/01 DFS/842. 排列数字.md",
+    "05 数据结构题目集/01《数据结构》题目集/编程题/习题2.8 输出全排列.md",
     "02 算法基础课/02 第二讲 数据结构/03 栈/828. 模拟栈.md",
-    "02 算法基础课/01 第一讲 基础算法/01 快速排序/785. 快速排序.md",
-    "02 算法基础课/01 第一讲 基础算法/01 快速排序/786. 第k个数.md",
-    "02 算法基础课/02 第二讲 数据结构/01 单链表/826. 单链表.md",
-    "02 算法基础课/02 第二讲 数据结构/02 双链表/827. 双链表.md",
-    "03 PAT甲级/14 第十四章 基础算法与数据结构/03 1085 Perfect Sequence.md",
-    "02 算法基础课/01 第一讲 基础算法/03 二分/789. 数的范围.md",
-    "03 PAT甲级/14 第十四章 基础算法与数据结构/02 1046 Shortest Distance.md",
-    "03 PAT甲级/04 第四章 排序/未完成.md",
-    "03 PAT甲级/14 第十四章 基础算法与数据结构/01 1029 Median.md"
+    "05 数据结构题目集/03 数据结构与算法题目集/函数题/6-4 链式表的按序号查找.md",
+    "03 PAT甲级/02 第二章 高精度/06 1136 A Delayed Palindrome.md",
+    "03 PAT甲级/03 第三章 进位制/05 1019 General Palindromic Number.md",
+    "03 PAT甲级/04 第四章 排序/03 1025 PAT Ranking.md",
+    "03 PAT甲级/02 第二章 高精度/03 1023 Have Fun with Numbers.md",
+    "03 PAT甲级/04 第四章 排序/04 1028 List Sorting.md",
+    "03 PAT甲级/04 第四章 排序/05 1052 Linked List Sorting.md"
   ]
 }

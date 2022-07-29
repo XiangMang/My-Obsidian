@@ -1,8 +1,112 @@
 {
   "recentFiles": [
     {
+      "basename": "844. 走迷宫",
+      "path": "02 算法基础课/03 第三讲 搜索与图论/02 BFS/844. 走迷宫.md"
+    },
+    {
+      "basename": "842. 排列数字",
+      "path": "02 算法基础课/03 第三讲 搜索与图论/01 DFS/842. 排列数字.md"
+    },
+    {
+      "basename": "习题2.8 输出全排列",
+      "path": "05 数据结构题目集/01《数据结构》题目集/编程题/习题2.8 输出全排列.md"
+    },
+    {
       "basename": "828. 模拟栈",
       "path": "02 算法基础课/02 第二讲 数据结构/03 栈/828. 模拟栈.md"
+    },
+    {
+      "basename": "6-4 链式表的按序号查找",
+      "path": "05 数据结构题目集/03 数据结构与算法题目集/函数题/6-4 链式表的按序号查找.md"
+    },
+    {
+      "basename": "06 1136 A Delayed Palindrome",
+      "path": "03 PAT甲级/02 第二章 高精度/06 1136 A Delayed Palindrome.md"
+    },
+    {
+      "basename": "05 1019 General Palindromic Number",
+      "path": "03 PAT甲级/03 第三章 进位制/05 1019 General Palindromic Number.md"
+    },
+    {
+      "basename": "03 1025 PAT Ranking",
+      "path": "03 PAT甲级/04 第四章 排序/03 1025 PAT Ranking.md"
+    },
+    {
+      "basename": "03 1023 Have Fun with Numbers",
+      "path": "03 PAT甲级/02 第二章 高精度/03 1023 Have Fun with Numbers.md"
+    },
+    {
+      "basename": "04 1028 List Sorting",
+      "path": "03 PAT甲级/04 第四章 排序/04 1028 List Sorting.md"
+    },
+    {
+      "basename": "05 1052 Linked List Sorting",
+      "path": "03 PAT甲级/04 第四章 排序/05 1052 Linked List Sorting.md"
+    },
+    {
+      "basename": "06 1075 PAT Judge",
+      "path": "03 PAT甲级/04 第四章 排序/06 1075 PAT Judge.md"
+    },
+    {
+      "basename": "习题2.3 数列求和-加强版",
+      "path": "05 数据结构题目集/01《数据结构》题目集/编程题/习题2.3 数列求和-加强版.md"
+    },
+    {
+      "basename": "04 1024 Palindromic Number",
+      "path": "03 PAT甲级/02 第二章 高精度/04 1024 Palindromic Number.md"
+    },
+    {
+      "basename": "02 1022 Digital Library",
+      "path": "03 PAT甲级/04 第四章 排序/02 1022 Digital Library.md"
+    },
+    {
+      "basename": "04 1035 Password",
+      "path": "03 PAT甲级/01 第一章 字符串处理/04 1035 Password.md"
+    },
+    {
+      "basename": "794. 高精度除法",
+      "path": "02 算法基础课/01 第一讲 基础算法/04 高精度/794. 高精度除法.md"
+    },
+    {
+      "basename": "793. 高精度乘法",
+      "path": "02 算法基础课/01 第一讲 基础算法/04 高精度/793. 高精度乘法.md"
+    },
+    {
+      "basename": "792. 高精度减法",
+      "path": "02 算法基础课/01 第一讲 基础算法/04 高精度/792. 高精度减法.md"
+    },
+    {
+      "basename": "791. 高精度加法",
+      "path": "02 算法基础课/01 第一讲 基础算法/04 高精度/791. 高精度加法.md"
+    },
+    {
+      "basename": "829. 模拟队列",
+      "path": "02 算法基础课/02 第二讲 数据结构/04 队列/829. 模拟队列.md"
+    },
+    {
+      "basename": "154. 滑动窗口",
+      "path": "02 算法基础课/02 第二讲 数据结构/06 单调队列/154. 滑动窗口.md"
+    },
+    {
+      "basename": "830. 单调栈",
+      "path": "02 算法基础课/02 第二讲 数据结构/05 单调栈/830. 单调栈.md"
+    },
+    {
+      "basename": "826. 单链表",
+      "path": "02 算法基础课/02 第二讲 数据结构/01 单链表/826. 单链表.md"
+    },
+    {
+      "basename": "实例1.1 最大子列和问题",
+      "path": "05 数据结构题目集/01《数据结构》题目集/编程题/实例1.1 最大子列和问题.md"
+    },
+    {
+      "basename": "单调栈思想",
+      "path": "98 文章/单调栈思想.md"
+    },
+    {
+      "basename": "05 1036 Boys vs Girls",
+      "path": "03 PAT甲级/01 第一章 字符串处理/05 1036 Boys vs Girls.md"
     },
     {
       "basename": "785. 快速排序",
@@ -11,10 +115,6 @@
     {
       "basename": "786. 第k个数",
       "path": "02 算法基础课/01 第一讲 基础算法/01 快速排序/786. 第k个数.md"
-    },
-    {
-      "basename": "826. 单链表",
-      "path": "02 算法基础课/02 第二讲 数据结构/01 单链表/826. 单链表.md"
     },
     {
       "basename": "827. 双链表",
@@ -53,14 +153,6 @@
       "path": "98 文章/C++结构体的构造函数.md"
     },
     {
-      "basename": "04 1028 List Sorting",
-      "path": "03 PAT甲级/04 第四章 排序/04 1028 List Sorting.md"
-    },
-    {
-      "basename": "05 1052 Linked List Sorting",
-      "path": "03 PAT甲级/04 第四章 排序/05 1052 Linked List Sorting.md"
-    },
-    {
       "basename": "升序，降序，非升序，非降序",
       "path": "98 文章/升序，降序，非升序，非降序.md"
     },
@@ -75,18 +167,6 @@
     {
       "basename": "基础实验3-2.2 单链表分段逆转",
       "path": "05 数据结构题目集/02《数据结构实验指导》题目集/01 函数题/基础实验3-2.2 单链表分段逆转.md"
-    },
-    {
-      "basename": "06 1075 PAT Judge",
-      "path": "03 PAT甲级/04 第四章 排序/06 1075 PAT Judge.md"
-    },
-    {
-      "basename": "03 1025 PAT Ranking",
-      "path": "03 PAT甲级/04 第四章 排序/03 1025 PAT Ranking.md"
-    },
-    {
-      "basename": "02 1022 Digital Library",
-      "path": "03 PAT甲级/04 第四章 排序/02 1022 Digital Library.md"
     },
     {
       "basename": "01 1012 The Best Rank",
@@ -105,10 +185,6 @@
       "path": "03 PAT甲级/01 第一章 字符串处理/01 1001 A+B Format.md"
     },
     {
-      "basename": "04 1035 Password",
-      "path": "03 PAT甲级/01 第一章 字符串处理/04 1035 Password.md"
-    },
-    {
       "basename": "06 1050 String Subtraction",
       "path": "03 PAT甲级/01 第一章 字符串处理/06 1050 String Subtraction.md"
     },
@@ -123,82 +199,6 @@
     {
       "basename": "习题3.5 求链表的倒数第m个元素",
       "path": "05 数据结构题目集/01《数据结构》题目集/函数题/习题3.5 求链表的倒数第m个元素.md"
-    },
-    {
-      "basename": "习题3.3 线性表元素的区间删除",
-      "path": "05 数据结构题目集/01《数据结构》题目集/函数题/习题3.3 线性表元素的区间删除.md"
-    },
-    {
-      "basename": "习题2.6 递归求简单交错幂级数的部分和",
-      "path": "05 数据结构题目集/01《数据结构》题目集/函数题/习题2.6 递归求简单交错幂级数的部分和.md"
-    },
-    {
-      "basename": "习题2.5 两个有序链表序列的合并",
-      "path": "05 数据结构题目集/01《数据结构》题目集/函数题/习题2.5 两个有序链表序列的合并.md"
-    },
-    {
-      "basename": "习题1.9 有序数组的插入",
-      "path": "05 数据结构题目集/01《数据结构》题目集/函数题/习题1.9 有序数组的插入.md"
-    },
-    {
-      "basename": "习题1.8 二分查找",
-      "path": "05 数据结构题目集/01《数据结构》题目集/函数题/习题1.8 二分查找.md"
-    },
-    {
-      "basename": "习题2.1 简单计算器",
-      "path": "05 数据结构题目集/01《数据结构》题目集/编程题/习题2.1 简单计算器.md"
-    },
-    {
-      "basename": "习题2.3 数列求和-加强版",
-      "path": "05 数据结构题目集/01《数据结构》题目集/编程题/习题2.3 数列求和-加强版.md"
-    },
-    {
-      "basename": "习题2.8 输出全排列",
-      "path": "05 数据结构题目集/01《数据结构》题目集/编程题/习题2.8 输出全排列.md"
-    },
-    {
-      "basename": "实例1.1 最大子列和问题",
-      "path": "05 数据结构题目集/01《数据结构》题目集/编程题/实例1.1 最大子列和问题.md"
-    },
-    {
-      "basename": "01 95. 费解的开关",
-      "path": "04 蓝桥杯C++AB组辅导课/01 第一讲 递归与递推/01 95. 费解的开关.md"
-    },
-    {
-      "basename": "01 1161 Merging Linked Lists",
-      "path": "03 PAT甲级/13 第十三章 链表/01 1161 Merging Linked Lists.md"
-    },
-    {
-      "basename": "04 1100 Mars Numbers",
-      "path": "03 PAT甲级/03 第三章 进位制/04 1100 Mars Numbers.md"
-    },
-    {
-      "basename": "05 1019 General Palindromic Number",
-      "path": "03 PAT甲级/03 第三章 进位制/05 1019 General Palindromic Number.md"
-    },
-    {
-      "basename": "03 1027 Colors in Mars",
-      "path": "03 PAT甲级/03 第三章 进位制/03 1027 Colors in Mars.md"
-    },
-    {
-      "basename": "02 1015 Reversible Primes",
-      "path": "03 PAT甲级/03 第三章 进位制/02 1015 Reversible Primes.md"
-    },
-    {
-      "basename": "01 1010 Radix",
-      "path": "03 PAT甲级/03 第三章 进位制/01 1010 Radix.md"
-    },
-    {
-      "basename": "06 1136 A Delayed Palindrome",
-      "path": "03 PAT甲级/02 第二章 高精度/06 1136 A Delayed Palindrome.md"
-    },
-    {
-      "basename": "05 1058 A+B in Hogwarts",
-      "path": "03 PAT甲级/02 第二章 高精度/05 1058 A+B in Hogwarts.md"
-    },
-    {
-      "basename": "04 1024 Palindromic Number",
-      "path": "03 PAT甲级/02 第二章 高精度/04 1024 Palindromic Number.md"
     }
   ],
   "omittedPaths": [],

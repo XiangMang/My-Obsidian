@@ -2,7 +2,7 @@
 
 [1538. 链表排序 - AcWing题库](https://www.acwing.com/problem/content/description/1540/)
 
-#unordered_map #vector #c-str#排序
+#unordered_map #c-str #排序 #vector 
 
 A linked list consists of a series of structures, which are not necessarily adjacent in memory. We assume that each structure contains an integer `key` and a `Next` pointer to the next structure. Now given a linked list, you are supposed to sort the structures according to their key values in increasing order.
 

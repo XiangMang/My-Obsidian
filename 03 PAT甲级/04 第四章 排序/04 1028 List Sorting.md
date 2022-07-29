@@ -2,7 +2,7 @@
 
 [1505. 列表排序 - AcWing题库](https://www.acwing.com/problem/content/1507/)
 
-#vector #c-str #排序
+#c-str #排序 #vector 
 
 Excel can sort records according to any column. Now you are supposed to imitate this function.
 
