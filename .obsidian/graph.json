@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"01 模板\"",
@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "path:\"06 每日一题\"",
+      "query": "path:\"06 杂题\"",
       "color": {
         "a": 1,
         "rgb": 16382065
@@ -67,6 +67,6 @@
   "repelStrength": 13.6342042755344,
   "linkStrength": 1,
   "linkDistance": 212,
-  "scale": 0.22920135941749348,
+  "scale": 0.16348370567220527,
   "close": true
 }
