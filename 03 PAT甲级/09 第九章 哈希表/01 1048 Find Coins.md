@@ -1,69 +1,54 @@
-## [1532. 找硬币 - AcWing题库](https://www.acwing.com/problem/content/description/1534/)
+## [题目详情 - 1048 Find Coins (pintia.cn)](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840)
 
-#二分 #双指针 #hash 
+[1532. 找硬币 - AcWing题库](https://www.acwing.com/problem/content/1534/)
 
-伊娃喜欢从整个宇宙中收集硬币。
+#二分 #hash #双指针 
 
-有一天，她去了一家宇宙购物中心购物，结账时可以使用各种硬币付款。
+Eva loves to collect coins from all over the universe, including some other planets like Mars. One day she visited a universal shopping mall which could accept all kinds of coins as payments. However, there was a special requirement of the payment: for each bill, she could only use exactly two coins to pay the exact amount. Since she has as many as $10^5$ coins with her, she definitely needs your help. You are supposed to tell her, for any given amount of money, whether or not she can find two coins to pay for it.
 
-但是，有一个特殊的付款要求：每张帐单，她只能使用**恰好**两个硬币来**准确**的支付消费金额。
+### Input Specification:
 
-给定她拥有的所有硬币的面额，请你帮她确定对于给定的金额，她是否可以找到两个硬币来支付。
+Each input file contains one test case. For each case, the first line contains 2 positive numbers: $N$ ($≤10^5$, the total number of coins) and $M$ ($≤10^3$, the amount of money Eva has to pay). The second line contains $N$ face values of the coins, which are all positive numbers no more than 500. All the numbers in a line are separated by a space.
 
-#### 输入格式
+### Output Specification:
 
-第一行包含两个整数 $N$ 和 $M$，分别表示硬币数量以及需要支付的金额。
+For each test case, print in one line the two face values $V_1$ and $V_2$ (separated by a space) such that $V_1+V_2=M$ and $V_1≤V_2$. If such a solution is not unique, output the one with the smallest $V_1$. If there is no solution, output `No Solution` instead.
 
-第二行包含 $N$ 个整数，表示每个硬币的面额。
+### Sample Input 1:
 
-#### 输出格式
-
-输出一行，包含两个整数 $V_1,V_2$，表示所选的两个硬币的面额，使得 $V_1≤V_2$ 并且 $V_1+V_2=M$。
-
-如果答案不唯一，则输出 $V_1$ 最小的解。
-
-如果无解，则输出 `No Solution`。
-
-#### 数据范围
-
-$1≤N≤10^5$
-$1≤M≤1000$
-
-#### 输入样例1：
-
-```
+```in
 8 15
 1 2 8 7 2 4 11 15
 ```
 
-#### 输出样例1：
+### Sample Output 1:
 
-```
+```out
 4 11
 ```
 
-#### 输入样例2：
+### Sample Input 2:
 
-```
+```in
 7 14
 1 8 7 2 4 11 15
 ```
 
-#### 输出样例2：
+### Sample Output 2:
 
-```
+```out
 No Solution
 ```
 
-#### 思路
+### Idea
 
 - 二分
 - hash(查找一个数是否存在)
 - 根据单调性关系,使用双指针
 
-#### 代码
+### AC code
 
-##### 二分
+#### 二分
 
 ```cpp
 #include <iostream>
@@ -106,7 +91,7 @@ int main(void){
 }
 ```
 
-##### hash
+#### hash
 
 ```cpp
 #include <iostream>
@@ -143,7 +128,7 @@ int main(void){
 }
 ```
 
-#####  双指针
+####  双指针
 
 ```cpp
 #include <iostream>

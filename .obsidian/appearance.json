@@ -2,5 +2,6 @@
   "cssTheme": "Atom",
   "translucency": false,
   "theme": "obsidian",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "monospaceFontFamily": "Consolas"
 }

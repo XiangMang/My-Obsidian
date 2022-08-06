@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a963d79e43f7ed67",
+        "id": "8a43d96a48b5c70f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "03 PAT甲级/08 第八章 动态规划/01 1007 Maximum Subsequence Sum.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "全",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 PAT甲级/08 第八章 动态规划/01 1007 Maximum Subsequence Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 PAT甲级/08 第八章 动态规划/01 1007 Maximum Subsequence Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03 PAT甲级/08 第八章 动态规划/01 1007 Maximum Subsequence Sum.md"
+              }
             }
           },
           {
@@ -137,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a963d79e43f7ed67",
+  "active": "8a43d96a48b5c70f",
   "lastOpenFiles": [
-    "符号公式.md",
-    "03 PAT甲级/09 第九章 哈希表/01 1532. 找硬币.md",
-    "02 算法基础课/01 第一讲 基础算法/03 二分/789. 数的范围.md",
-    "02 算法基础课/02 第二讲 数据结构/01 单链表/826. 单链表.md",
+    "03 PAT甲级/13 第十三章 链表/01 1161 Merging Linked Lists.md",
+    "03 PAT甲级/08 第八章 动态规划/01 1007 Maximum Subsequence Sum.md",
+    "05 数据结构题目集/01《数据结构》题目集/编程题/实例1.1 最大子列和问题.md",
+    "03 PAT甲级/09 第九章 哈希表/08 1145 Hashing - Average Search Time.md",
     "02 算法基础课/03 第三讲 搜索与图论/02 BFS/844. 走迷宫.md",
-    "06 杂题/1076. 迷宫问题.md",
-    "06 杂题/3715. 最少交换次数.md",
-    "06 杂题/3619. 日期.md",
-    "06 杂题/3564. 日期类.md",
-    "06 杂题/3477. 简单排序.md"
+    "03 PAT甲级/09 第九章 哈希表/07 1137 Final Grading.md",
+    "03 PAT甲级/09 第九章 哈希表/06 1078 Hashing.md",
+    "03 PAT甲级/09 第九章 哈希表/05 1149 Dangerous Goods Packaging.md",
+    "03 PAT甲级/04 第四章 排序/06 1075 PAT Judge.md",
+    "98 文章/C++结构体的构造函数.md"
   ]
 }

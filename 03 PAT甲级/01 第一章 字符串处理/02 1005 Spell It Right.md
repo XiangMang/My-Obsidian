@@ -4,7 +4,7 @@
 
 #模拟 #to_string #字符串 #简单
 
-Given a non-negative integer *N*, your task is to compute the sum of all the digits of *N*, and output every digit of the sum in English.
+Given a non-negative[^1] integer *N*, your task is to compute the sum of all the digits of *N*, and output every digit of the sum in English.
 
 ### Input Specification:
 
@@ -12,7 +12,7 @@ Each input file contains one test case. Each case occupies one line which contai
 
 ### Output Specification:
 
-For each test case, output in one line the digits of the sum in English words. There must be one space between two consecutive words, but no extra space at the end of a line.
+For each test case, output in one line the digits of the sum in English words. There must be one space between two consecutive[^2] words, but no extra space at the end of a line.
 
 ### Sample Input:
 
@@ -61,3 +61,6 @@ int main(void){
 
 
 *2022-06-29 周三*
+
+[^1]: non-negative $adj.$ 非负的;正的
+[^2]: consecutive $adj.$连续的,不间断的

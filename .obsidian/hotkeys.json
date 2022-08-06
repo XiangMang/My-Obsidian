@@ -28,8 +28,7 @@
   "obsidian-footnotes:insert-footnote": [
     {
       "modifiers": [
-        "Alt",
-        "Shift"
+        "Alt"
       ],
       "key": "6"
     }

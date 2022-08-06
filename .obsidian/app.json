@@ -4,7 +4,7 @@
   "promptDelete": false,
   "strictLineBreaks": false,
   "showLineNumber": true,
-  "trashOption": "local",
+  "trashOption": "system",
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "newLinkFormat": "shortest",
