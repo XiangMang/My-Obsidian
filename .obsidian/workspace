@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8a43d96a48b5c70f",
+        "id": "0baf5331009f8a05",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03 PAT甲级/08 第八章 动态规划/01 1007 Maximum Subsequence Sum.md",
+            "file": "03 PAT甲级/04 第四章 排序/01 1012 The Best Rank.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -44,7 +44,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 PAT甲级/08 第八章 动态规划/01 1007 Maximum Subsequence Sum.md",
+                "file": "03 PAT甲级/04 第四章 排序/01 1012 The Best Rank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 PAT甲级/08 第八章 动态规划/01 1007 Maximum Subsequence Sum.md",
+                "file": "03 PAT甲级/04 第四章 排序/01 1012 The Best Rank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 PAT甲级/08 第八章 动态规划/01 1007 Maximum Subsequence Sum.md"
+                "file": "03 PAT甲级/04 第四章 排序/01 1012 The Best Rank.md"
               }
             }
           },
@@ -146,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a43d96a48b5c70f",
+  "active": "0baf5331009f8a05",
   "lastOpenFiles": [
-    "03 PAT甲级/13 第十三章 链表/01 1161 Merging Linked Lists.md",
-    "03 PAT甲级/08 第八章 动态规划/01 1007 Maximum Subsequence Sum.md",
-    "05 数据结构题目集/01《数据结构》题目集/编程题/实例1.1 最大子列和问题.md",
-    "03 PAT甲级/09 第九章 哈希表/08 1145 Hashing - Average Search Time.md",
-    "02 算法基础课/03 第三讲 搜索与图论/02 BFS/844. 走迷宫.md",
-    "03 PAT甲级/09 第九章 哈希表/07 1137 Final Grading.md",
-    "03 PAT甲级/09 第九章 哈希表/06 1078 Hashing.md",
-    "03 PAT甲级/09 第九章 哈希表/05 1149 Dangerous Goods Packaging.md",
-    "03 PAT甲级/04 第四章 排序/06 1075 PAT Judge.md",
-    "98 文章/C++结构体的构造函数.md"
+    "03 PAT甲级/02 第二章 高精度/06 1136 A Delayed Palindrome.md",
+    "03 PAT甲级/02 第二章 高精度/05 1058 A+B in Hogwarts.md",
+    "03 PAT甲级/02 第二章 高精度/04 1024 Palindromic Number.md",
+    "03 PAT甲级/02 第二章 高精度/03 1023 Have Fun with Numbers.md",
+    "03 PAT甲级/02 第二章 高精度/02 1009 Product of Polynomials.md",
+    "03 PAT甲级/02 第二章 高精度/01 1002 A+B for Polynomial.md",
+    "03 PAT甲级/01 第一章 字符串处理/07 1071 Speech Patterns.md",
+    "03 PAT甲级/01 第一章 字符串处理/02 1005 Spell It Right.md",
+    "03 PAT甲级/01 第一章 字符串处理/01 1001 A+B Format.md",
+    "03 PAT甲级/01 第一章 字符串处理/03 1006 Sign In and Sign Out.md"
   ]
 }

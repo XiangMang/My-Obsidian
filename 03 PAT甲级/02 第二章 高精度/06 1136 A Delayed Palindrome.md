@@ -4,9 +4,9 @@
 
 #回文数 #高精度 #vector 
 
-Consider a positive integer $N$ written in standard notation with $k+1$ digits $a_i$ as $a_k⋯a_1a_0$ with $0≤a_i<10$ for all $i$ and $a_k>0$. Then $N$ is **palindromic** if and only if $a_i=a_{k−i}$ for all $i$. Zero is written $0$ and is also palindromic by definition.
+Consider[^1] a positive integer $N$ written in standard notation[^2] with $k+1$ digits $a_i$ as $a_k⋯a_1a_0$ with $0≤a_i<10$ for all $i$ and $a_k>0$. Then $N$ is **palindromic** if and only if $a_i=a_{k−i}$ for all $i$. Zero is written $0$ and is also palindromic by definition[^3].
 
-Non-palindromic numbers can be paired with palindromic ones via a series of operations. First, the non-palindromic number is reversed and the result is added to the original number. If the result is not a palindromic number, this is repeated until it gives a palindromic number. Such number is called a delayed palindrome. (Quoted from https://en.wikipedia.org/wiki/Palindromic_number )
+Non-palindromic numbers can be paired with palindromic ones via[^4] a series of operations. First, the non-palindromic number is reversed and the result is added to the original number. If the result is not a palindromic number, this is repeated[^5] until it gives a palindromic number. Such number is called a delayed[^6] palindrome. (Quoted from [this](https://en.wikipedia.org/wiki/Palindromic_number ))
 
 Given any positive integer, you are supposed to find its paired palindromic number.
 
@@ -22,7 +22,7 @@ For each test case, print line by line the process of finding the palindromic nu
 A + B = C
 ```
 
-where `A` is the original number, `B` is the reversed `A`, and `C` is their sum. `A` starts being the input number, and this process ends until `C` becomes a palindromic number -- in this case we print in the last line `C is a palindromic number.`; or if a palindromic number cannot be found in 10 iterations, print `Not found in 10 iterations.` instead.
+where `A` is the original number, `B` is the reversed `A`, and `C` is their sum. `A` starts being the input number, and this process[^7] ends until `C` becomes a palindromic number -- in this case we print in the last line `C is a palindromic number.`; or if a palindromic number cannot be found in 10 iterations[^8], print `Not found in 10 iterations.` instead.
 
 ### Sample Input 1:
 
@@ -62,7 +62,7 @@ Not found in 10 iterations.
 
 ### Idea
 
-与[题目详情 - 1024 Palindromic Number (pintia.cn)](https://pintia.cn/problem-sets/994805342720868352/problems/994805476473028608)一致
+详见:[[04 1024 Palindromic Number]]
 
 ### AC code
 
@@ -129,3 +129,12 @@ int main(void){
 
 
 *2022-07-20 周三*
+
+[^1]: consider $v.$ 考虑
+[^2]: notation $n.$ (数学)标记系统,成套符号
+[^3]: definition $n.$ 定义
+[^4]: via $prep.$ 经由
+[^5]: repeat $v.$ 重复
+[^6]: delayed $adj.$ 延迟的
+[^7]: process $n.$ 程序
+[^8]: iterations $n.$ 迭代次数

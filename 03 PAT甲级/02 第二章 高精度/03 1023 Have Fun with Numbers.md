@@ -4,9 +4,9 @@
 
 #高精度 #vector 
 
-Notice that the number 123456789 is a 9-digit number consisting exactly the numbers from 1 to 9, with no duplication. Double it we will obtain 246913578, which happens to be another 9-digit number consisting exactly the numbers from 1 to 9, only in a different permutation. Check to see the result if we double it again!
+Notice that the number 123456789 is a 9-digit number consisting exactly[^1] the numbers from 1 to 9, with no duplication[^2]. Double it we will obtain[^3] 246913578, which happens to be another 9-digit number consisting exactly the numbers from 1 to 9, only in a different permutation[^4]. Check to see the result if we double it again!
 
-Now you are suppose to check if there are more numbers with this property. That is, double a given number with *k* digits, you are to tell if the resulting number consists of only a permutation of the digits in the original number.
+Now you are suppose to check if there are more numbers with this property[^5]. That is, double a given number with *k* digits, you are to tell[^6] if the resulting number consists of only a permutation of the digits in the original number.
 
 ### Input Specification:
 
@@ -142,3 +142,10 @@ int main(void){
 
 
 *2022-07-19 周二*
+
+[^1]: exactly $adv.$ 恰好
+[^2]: deplication $n.$ 重复
+[^3]: obtain $v.$ 获得
+[^4]: permutation $n.$ 排列
+[^5]: property $n.$ 性质
+[^6]: tell $v.$ 辨别

@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Atom",
-  "translucency": false,
+  "cssTheme": "",
+  "translucency": true,
   "theme": "obsidian",
   "baseFontSize": 16,
-  "monospaceFontFamily": "Consolas"
+  "monospaceFontFamily": "Consolas",
+  "accentColor": ""
 }

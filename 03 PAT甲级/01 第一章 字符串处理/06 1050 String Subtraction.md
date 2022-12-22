@@ -4,15 +4,15 @@
 
 #hash #字符串 #unordered_set
 
-Given two strings *S*1 and *S*2, *S*=*S*1−*S*2 is defined to be the remaining string after taking all the characters in *S*2 from *S*1. Your task is simply to calculate *S*1−*S*2 for any given strings. However, it might not be that simple to do it **fast**.
+Given two strings $S_1$ and $S_2$, $S=S_1−S_2$ is defined[^1] to be the remaining[^2] string after taking all the characters in *S*2 from *S*1. Your task is simply to calculate $S_1−S_2$ for any given strings. However, it might not be that simple to do it **fast**.
 
 ### Input Specification:
 
-Each input file contains one test case. Each case consists of two lines which gives *S*1 and *S*2, respectively. The string lengths of both strings are no more than 104. It is guaranteed that all the characters are visible ASCII codes and white space, and a new line character signals the end of a string.
+Each input file contains one test case. Each case consists of two lines which gives $S_1$ and $S_2$, respectively[^3]. The string lengths of both strings are no more than $10^4$. It is guaranteed that all the characters are visible[^4] ASCII codes and white space, and a new line character signals the end of a string.
 
 ### Output Specification:
 
-For each test case, print *S*1−*S*2 in one line.
+For each test case, print $S_1−S_2$ in one line.
 
 ### Sample Input:
 
@@ -98,3 +98,8 @@ int main(void){
 
 
 *2022-07-17 周日*
+
+[^1]: defined $adj.$ 给......下定义
+[^2]: remain $v.$ 留下
+[^3]: respectively $adv.$ 依次的
+[^4]: visible $adv.$ 看得见的

@@ -4,11 +4,11 @@
 
 #operator #排序 #vector 
 
-Programming Ability Test (PAT) is organized by the College of Computer Science and Technology of Zhejiang University. Each test is supposed to run simultaneously in several places, and the ranklists will be merged immediately after the test. Now it is your job to write a program to correctly merge all the ranklists and generate the final rank.
+Programming Ability Test (PAT) is organized by the College of Computer Science and Technology of Zhejiang University. Each test is supposed to run simultaneously[^1] in several[^2] places, and the ranklists[^3] will be merged immediately[^4] after the test. Now it is your job to write a program to correctly[^5] merge all the ranklists and generate[^6] the final rank.
 
 ### Input Specification:
 
-Each input file contains one test case. For each case, the first line contains a positive number $N (≤100)$, the number of test locations. Then $N$ ranklists follow, each starts with a line containing a positive integer $K (≤300)$, the number of testees, and then $K$ lines containing the registration number (a 13-digit number) and the total score of each testee. All the numbers in a line are separated by a space.
+Each input file contains one test case. For each case, the first line contains a positive number $N (≤100)$, the number of test locations[^7]. Then $N$ ranklists follow, each starts with a line containing a positive integer $K (≤300)$, the number of testees, and then $K$ lines containing the registration number (a 13-digit number) and the total score of each testee. All the numbers in a line are separated by a space.
 
 ### Output Specification:
 
@@ -18,7 +18,7 @@ For each test case, first print in one line the total number of testees. Then pr
 registration_number final_rank location_number local_rank
 ```
 
-The locations are numbered from 1 to $N$. The output must be sorted in nondecreasing order of the final ranks. The testees with the same score must have the same rank, and the output must be sorted in nondecreasing order of their registration numbers.
+The locations are numbered from 1 to $N$. The output must be sorted in nondecreasing order of the final ranks. The testees with the same score must have the same rank, and the output must be sorted in nondecreasing order of their registration[^8] numbers.
 
 ### Sample Input:
 
@@ -76,7 +76,7 @@ struct Student{
 
     bool operator< (const Student& t) const{// 首先判断分数是否相同,如果相同就判断考号
         if(grade != t.grade) return grade > t.grade;// 分高的在前
-        return id < t.id;// 考好小的先输出
+        return id < t.id;// 考号小的先输出
     }
 };
 
@@ -126,3 +126,12 @@ int main(void){
 
 
 *2022-07-26 周二*
+
+[^1]:  simultaneously $adv.$ 同时的
+[^2]: several $adj.$ 不同的
+[^3]: ranklist 排名表
+[^4]: immediatel $adv.$ 立即
+[^5]: correctly $adv.$ 正确的
+[^6]: generate $v.$ 产生
+[^7]: location $n.$ 地点
+[^8]: registration $n.$ 登记

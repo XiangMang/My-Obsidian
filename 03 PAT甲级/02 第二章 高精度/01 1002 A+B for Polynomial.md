@@ -4,7 +4,7 @@
 
 #简单 
 
-This time, you are supposed to find $A+B$ where $A$ and $B$ are two polynomials.
+This time, you are supposed to find $A+B$ where $A$ and $B$ are two polynomials[^1].
 
 ### Input Specification:
 
@@ -12,11 +12,11 @@ Each input file contains one test case. Each case occupies 2 lines, and each lin
 
 $K ~N_1 ~a_{N_1} ~N_2 ~a_{N_2} ~... ~N_K ~a_{N_K}$
 
-where $K$ is the number of nonzero terms in the polynomial, Ni and $a_{N_i} (i=1,2,⋯,K)$ are the exponents and coefficients, respectively. It is given that $1≤K≤10，0≤NK<⋯<N2<N1≤1000$.
+where $K$ is the number of nonzero terms[^2] in the polynomial, $N_i$ and $a_{N_i} (i=1,2,⋯,K)$ are the exponents[^3] and coefficients[^4], respectively. It is given that $1≤K≤10，0≤N_K<⋯<N_2<N_1≤1000$.
 
 ### Output Specification:
 
-For each test case you should output the sum of $A$ and $B$ in one line, with the same format as the input. Notice that there must be NO extra space at the end of each line. Please be accurate to 1 decimal place.
+For each test case you should output the sum of $A$ and $B$ in one line, with the same format as the input. Notice that there must be **NO** extra space at the end of each line. Please be accurate[^5] to 1 decimal[^6] place.
 
 ### Sample Input:
 
@@ -74,3 +74,10 @@ int main(void){
 
 
 *2022-07-19 周二*
+
+[^1]: polynomials $n.$ 多项式
+[^2]: term $n.$ (数学运算中的)项
+[^3]: exponent $n.$ 幂
+[^4]: coefficient $n.$ 系数
+[^5]: accurate $adj.$ 精确的
+[^6]: decimal $adj.$ 小数的

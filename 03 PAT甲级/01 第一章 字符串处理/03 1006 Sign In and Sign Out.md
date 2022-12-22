@@ -20,7 +20,7 @@ where times are given in the format `HH:MM:SS`, and `ID_number` is a string with
 
 For each test case, output in one line the ID numbers of the persons who have unlocked and locked the door on that day. The two ID numbers must be separated by one space.
 
-Note: It is guaranteed that the records are consistent. That is, the sign in time must be earlier than the sign out time for each person, and there are no two persons sign in or out at the same moment.
+Note: It is guaranteed[^1] that the records are consistent[^2]. That is, the sign in time must be earlier than the sign out time for each person, and there are no two persons sign in or out at the same moment.
 
 ### Sample Input:
 
@@ -77,3 +77,6 @@ int main(void){
 
 
 *2022-06-29 周三*
+
+[^1]: guarantee $v.$ 确保,保证
+[^2]: consistent $adj.$ 连续的, 一致的

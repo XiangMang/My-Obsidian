@@ -4,7 +4,7 @@
 
 #hash #二分 #unordered_map #排序 #round 
 
-To evaluate the performance of our first year CS majored students, we consider their grades of three courses only: `C` - C Programming Language, `M` - Mathematics (Calculus or Linear Algrbra), and `E` - English. At the mean time, we encourage students by emphasizing on their best ranks -- that is, among the four ranks with respect to the three courses and the average grade, we print the best rank for each student.
+To evaluate[^1] the performance[^2] of our first year CS majored students, we consider[^3] their grades of three courses[^4] only: `C` - C Programming Language, `M` - Mathematics (Calculus or Linear Algrbra), and `E` - English. At the mean time[^5], we encourage[^6] students by emphasizing[^7] on their best ranks -- that is, among the four ranks with respect[^8] to the three courses and the average grade, we print the best rank for each student.
 
 For example, The grades of `C`, `M`, `E` and `A` - Average of 4 students are given as the following:
 
@@ -26,7 +26,7 @@ Each input file contains one test case. Each case starts with a line containing 
 
 For each of the $M$ students, print in one line the best rank for him/her, and the symbol of the corresponding rank, separated by a space.
 
-The priorities of the ranking methods are ordered as `A` > `C` > `M` > `E`. Hence if there are two or more ways for a student to obtain the same best rank, output the one with the highest priority.
+The priorities[^9] of the ranking methods are ordered as `A` > `C` > `M` > `E`. Hence[^10] if there are two or more ways for a student to obtain the same best rank, output the one with the highest priority.
 
 If a student is not on the grading list, simply output `N/A`.
 
@@ -140,3 +140,14 @@ int main(void){
 
 
 *2022-07-20 周三*
+
+[^1]: evaluate $v.$ 评估
+[^2]: performance $n.$ 表现
+[^3]: consider $v.$ 考虑
+[^4]: course $n.$ 课程
+[^5]: At the mean time 同时
+[^6]: encourage $v.$ 鼓励
+[^7]: emphasize $v.$ 强调
+[^8]: respect $n.$ 方面
+[^9]: priority $n.$ 优先级
+[^10]: hence $adv.$ 因此

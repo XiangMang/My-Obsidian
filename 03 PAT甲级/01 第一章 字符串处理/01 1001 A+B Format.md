@@ -40,6 +40,11 @@ For each test case, you should output the sum of $a$ and $b$ in one line. The su
 3. 将和传化成字符串
 4. 对字符串进行分隔
 
+- 具体细节:
+1. 每经过三个数就加上 `,`
+2. `,` 不要加在第一位
+3. `,` 不要加在负号后面
+
 ### AC code
 
 ```cpp
@@ -50,7 +55,7 @@ using namespace std;
 
 int main(void){
 
-    int a, b, c;
+    int a, b;
 
     cin >> a >> b;
     string str = to_string(a + b);
@@ -60,6 +65,7 @@ int main(void){
         ans = str[i] + ans;
         j++;
         if(j % 3 == 0 && i && str[i - 1] != '-') ans = ',' + ans;
+        // 使用i进行字符串的遍历,使用j来判断是否需要加逗号
         //每三位数加上逗号，且避免首次运算与符号
     }
 

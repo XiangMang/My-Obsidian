@@ -40,35 +40,33 @@ For each test case, output in one line the largest sum, together with the first 
 
 using namespace std;
 
-const int N = 1e5 +10;
+const int N = 1e5 + 10;
 
 int n;
 int q[N];
 
 int main(void){
 
-    cin >> n;
-
-    for(int i = 1; i <= n; i++) scanf("%d", &q[i]);
-
-    int res = -1;
-    int l, r;
-    for(int i = 1, f = -1, state; i <= n; i++){
-        if(f < 0){
+    cin >> n; 
+    for(int i = 0; i < n; i++) cin >> q[i];
+    
+    int l = 0, r = 0;
+    int ans = -1;
+    for(int i = 0, f = -1, state; i < n; i++){
+        if(f < 0){// 在此处不使用<=是因为题目要求输出最小的下标索引
             f = 0;
-            state = i;// 暂时存储
+            state = i;
         }
         f += q[i];
-        if(res < f){
-            res = f;
+        if(ans < f){
+            ans = f;
             l = q[state];
             r = q[i];
         }
     }
 
-    if(res < 0) res = 0, l = q[1], r = q[n];
-
-    cout << res << ' ' << l << ' ' << r << endl;
+    if(ans < 0) ans = 0, l = q[0], r = q[n - 1];
+    cout << ans << ' ' << l << ' ' << r << endl;
 
     return 0;
 }

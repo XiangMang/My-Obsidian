@@ -1,160 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "01 1007 Maximum Subsequence Sum",
-      "path": "03 PAT甲级/08 第八章 动态规划/01 1007 Maximum Subsequence Sum.md"
+      "basename": "801. 二进制中1的个数",
+      "path": "02 算法基础课/01 第一讲 基础算法/09 位运算/801. 二进制中1的个数.md"
     },
     {
-      "basename": "01 1161 Merging Linked Lists",
-      "path": "03 PAT甲级/13 第十三章 链表/01 1161 Merging Linked Lists.md"
+      "basename": "01 熄灯问题",
+      "path": "08 沐枫OJ/01 熄灯问题.md"
     },
     {
-      "basename": "实例1.1 最大子列和问题",
-      "path": "05 数据结构题目集/01《数据结构》题目集/编程题/实例1.1 最大子列和问题.md"
+      "basename": "2816. 判断子序列",
+      "path": "02 算法基础课/01 第一讲 基础算法/08 双指针/2816. 判断子序列.md"
     },
     {
-      "basename": "08 1145 Hashing - Average Search Time",
-      "path": "03 PAT甲级/09 第九章 哈希表/08 1145 Hashing - Average Search Time.md"
+      "basename": "800. 数组元素的目标和",
+      "path": "02 算法基础课/01 第一讲 基础算法/08 双指针/800. 数组元素的目标和.md"
     },
     {
-      "basename": "844. 走迷宫",
-      "path": "02 算法基础课/03 第三讲 搜索与图论/02 BFS/844. 走迷宫.md"
+      "basename": "799. 最长连续不重复子序列",
+      "path": "02 算法基础课/01 第一讲 基础算法/08 双指针/799. 最长连续不重复子序列.md"
     },
     {
-      "basename": "07 1137 Final Grading",
-      "path": "03 PAT甲级/09 第九章 哈希表/07 1137 Final Grading.md"
+      "basename": "798. 差分矩阵",
+      "path": "02 算法基础课/01 第一讲 基础算法/06 差分/798. 差分矩阵.md"
     },
     {
-      "basename": "06 1078 Hashing",
-      "path": "03 PAT甲级/09 第九章 哈希表/06 1078 Hashing.md"
-    },
-    {
-      "basename": "05 1149 Dangerous Goods Packaging",
-      "path": "03 PAT甲级/09 第九章 哈希表/05 1149 Dangerous Goods Packaging.md"
-    },
-    {
-      "basename": "06 1075 PAT Judge",
-      "path": "03 PAT甲级/04 第四章 排序/06 1075 PAT Judge.md"
-    },
-    {
-      "basename": "C++结构体的构造函数",
-      "path": "98 文章/C++结构体的构造函数.md"
-    },
-    {
-      "basename": "01 1012 The Best Rank",
-      "path": "03 PAT甲级/04 第四章 排序/01 1012 The Best Rank.md"
-    },
-    {
-      "basename": "02 1046 Shortest Distance",
-      "path": "03 PAT甲级/14 第十四章 基础算法与数据结构/02 1046 Shortest Distance.md"
-    },
-    {
-      "basename": "04 1144 The Missing Number",
-      "path": "03 PAT甲级/09 第九章 哈希表/04 1144 The Missing Number.md"
-    },
-    {
-      "basename": "03 1120 Friend Numbers",
-      "path": "03 PAT甲级/09 第九章 哈希表/03 1120 Friend Numbers.md"
-    },
-    {
-      "basename": "01 1048 Find Coins",
-      "path": "03 PAT甲级/09 第九章 哈希表/01 1048 Find Coins.md"
-    },
-    {
-      "basename": "02 1063 Set Similarity",
-      "path": "03 PAT甲级/09 第九章 哈希表/02 1063 Set Similarity.md"
-    },
-    {
-      "basename": "02 1005 Spell It Right",
-      "path": "03 PAT甲级/01 第一章 字符串处理/02 1005 Spell It Right.md"
-    },
-    {
-      "basename": "01 1001 A+B Format",
-      "path": "03 PAT甲级/01 第一章 字符串处理/01 1001 A+B Format.md"
+      "basename": "797. 差分",
+      "path": "02 算法基础课/01 第一讲 基础算法/06 差分/797. 差分.md"
     },
     {
       "basename": "789. 数的范围",
       "path": "02 算法基础课/01 第一讲 基础算法/03 二分/789. 数的范围.md"
     },
     {
-      "basename": "826. 单链表",
-      "path": "02 算法基础课/02 第二讲 数据结构/01 单链表/826. 单链表.md"
+      "basename": "796. 子矩阵的和",
+      "path": "02 算法基础课/01 第一讲 基础算法/05 前缀和/796. 子矩阵的和.md"
     },
     {
-      "basename": "1076. 迷宫问题",
-      "path": "06 杂题/1076. 迷宫问题.md"
+      "basename": "795. 前缀和",
+      "path": "02 算法基础课/01 第一讲 基础算法/05 前缀和/795. 前缀和.md"
     },
     {
-      "basename": "3715. 最少交换次数",
-      "path": "06 杂题/3715. 最少交换次数.md"
-    },
-    {
-      "basename": "3619. 日期",
-      "path": "06 杂题/3619. 日期.md"
-    },
-    {
-      "basename": "3564. 日期类",
-      "path": "06 杂题/3564. 日期类.md"
-    },
-    {
-      "basename": "3477. 简单排序",
-      "path": "06 杂题/3477. 简单排序.md"
-    },
-    {
-      "basename": "842. 排列数字",
-      "path": "02 算法基础课/03 第三讲 搜索与图论/01 DFS/842. 排列数字.md"
-    },
-    {
-      "basename": "习题2.8 输出全排列",
-      "path": "05 数据结构题目集/01《数据结构》题目集/编程题/习题2.8 输出全排列.md"
-    },
-    {
-      "basename": "828. 模拟栈",
-      "path": "02 算法基础课/02 第二讲 数据结构/03 栈/828. 模拟栈.md"
-    },
-    {
-      "basename": "6-4 链式表的按序号查找",
-      "path": "05 数据结构题目集/03 数据结构与算法题目集/函数题/6-4 链式表的按序号查找.md"
-    },
-    {
-      "basename": "06 1136 A Delayed Palindrome",
-      "path": "03 PAT甲级/02 第二章 高精度/06 1136 A Delayed Palindrome.md"
-    },
-    {
-      "basename": "05 1019 General Palindromic Number",
-      "path": "03 PAT甲级/03 第三章 进位制/05 1019 General Palindromic Number.md"
-    },
-    {
-      "basename": "03 1025 PAT Ranking",
-      "path": "03 PAT甲级/04 第四章 排序/03 1025 PAT Ranking.md"
-    },
-    {
-      "basename": "03 1023 Have Fun with Numbers",
-      "path": "03 PAT甲级/02 第二章 高精度/03 1023 Have Fun with Numbers.md"
-    },
-    {
-      "basename": "04 1028 List Sorting",
-      "path": "03 PAT甲级/04 第四章 排序/04 1028 List Sorting.md"
-    },
-    {
-      "basename": "05 1052 Linked List Sorting",
-      "path": "03 PAT甲级/04 第四章 排序/05 1052 Linked List Sorting.md"
-    },
-    {
-      "basename": "习题2.3 数列求和-加强版",
-      "path": "05 数据结构题目集/01《数据结构》题目集/编程题/习题2.3 数列求和-加强版.md"
-    },
-    {
-      "basename": "04 1024 Palindromic Number",
-      "path": "03 PAT甲级/02 第二章 高精度/04 1024 Palindromic Number.md"
-    },
-    {
-      "basename": "02 1022 Digital Library",
-      "path": "03 PAT甲级/04 第四章 排序/02 1022 Digital Library.md"
-    },
-    {
-      "basename": "04 1035 Password",
-      "path": "03 PAT甲级/01 第一章 字符串处理/04 1035 Password.md"
+      "basename": "AcWing题解模板",
+      "path": "01 模板/AcWing题解模板.md"
     },
     {
       "basename": "794. 高精度除法",
@@ -173,32 +61,144 @@
       "path": "02 算法基础课/01 第一讲 基础算法/04 高精度/791. 高精度加法.md"
     },
     {
-      "basename": "829. 模拟队列",
-      "path": "02 算法基础课/02 第二讲 数据结构/04 队列/829. 模拟队列.md"
+      "basename": "844. 走迷宫",
+      "path": "02 算法基础课/03 第三讲 搜索与图论/02 BFS/844. 走迷宫.md"
     },
     {
-      "basename": "154. 滑动窗口",
-      "path": "02 算法基础课/02 第二讲 数据结构/06 单调队列/154. 滑动窗口.md"
+      "basename": "790. 数的三次方根",
+      "path": "02 算法基础课/01 第一讲 基础算法/03 二分/790. 数的三次方根.md"
     },
     {
-      "basename": "830. 单调栈",
-      "path": "02 算法基础课/02 第二讲 数据结构/05 单调栈/830. 单调栈.md"
+      "basename": "788. 逆序对的数量",
+      "path": "02 算法基础课/01 第一讲 基础算法/02 归并排序/788. 逆序对的数量.md"
     },
     {
-      "basename": "单调栈思想",
-      "path": "98 文章/单调栈思想.md"
+      "basename": "实例1.1 最大子列和问题",
+      "path": "05 数据结构题目集/01《数据结构》题目集/编程题/实例1.1 最大子列和问题.md"
     },
     {
-      "basename": "05 1036 Boys vs Girls",
-      "path": "03 PAT甲级/01 第一章 字符串处理/05 1036 Boys vs Girls.md"
+      "basename": "842. 排列数字",
+      "path": "02 算法基础课/03 第三讲 搜索与图论/01 DFS/842. 排列数字.md"
+    },
+    {
+      "basename": "习题2.8 输出全排列",
+      "path": "05 数据结构题目集/01《数据结构》题目集/编程题/习题2.8 输出全排列.md"
+    },
+    {
+      "basename": "08 全排列问题",
+      "path": "08 沐枫OJ/数据结构实践/01 栈/08 全排列问题.md"
+    },
+    {
+      "basename": "常用命令介绍",
+      "path": "20 Linux基础/01 常用文件管理命令/常用命令介绍.md"
+    },
+    {
+      "basename": "786. 第k个数",
+      "path": "02 算法基础课/01 第一讲 基础算法/01 快速排序/786. 第k个数.md"
+    },
+    {
+      "basename": "787. 归并排序",
+      "path": "02 算法基础课/01 第一讲 基础算法/02 归并排序/787. 归并排序.md"
     },
     {
       "basename": "785. 快速排序",
       "path": "02 算法基础课/01 第一讲 基础算法/01 快速排序/785. 快速排序.md"
     },
     {
-      "basename": "786. 第k个数",
-      "path": "02 算法基础课/01 第一讲 基础算法/01 快速排序/786. 第k个数.md"
+      "basename": "单链表基础操作",
+      "path": "98 文章/单链表基础操作.md"
+    },
+    {
+      "basename": "02 1022 Digital Library",
+      "path": "03 PAT甲级/04 第四章 排序/02 1022 Digital Library.md"
+    },
+    {
+      "basename": "829. 模拟队列",
+      "path": "02 算法基础课/02 第二讲 数据结构/04 队列/829. 模拟队列.md"
+    },
+    {
+      "basename": "07 波兰表达式",
+      "path": "08 沐枫OJ/数据结构实践/01 栈/07 波兰表达式.md"
+    },
+    {
+      "basename": "09 组合的输出",
+      "path": "08 沐枫OJ/数据结构实践/01 栈/09 组合的输出.md"
+    },
+    {
+      "basename": "04 1100 Mars Numbers",
+      "path": "03 PAT甲级/03 第三章 进位制/04 1100 Mars Numbers.md"
+    },
+    {
+      "basename": "3302. 表达式求值",
+      "path": "02 算法基础课/02 第二讲 数据结构/03 栈/3302. 表达式求值.md"
+    },
+    {
+      "basename": "05 车厢调度",
+      "path": "08 沐枫OJ/数据结构实践/01 栈/05 车厢调度.md"
+    },
+    {
+      "basename": "02 括弧匹配检验",
+      "path": "08 沐枫OJ/数据结构实践/01 栈/02 括弧匹配检验.md"
+    },
+    {
+      "basename": "01 表达式括号匹配",
+      "path": "08 沐枫OJ/数据结构实践/01 栈/01 表达式括号匹配.md"
+    },
+    {
+      "basename": "03 字符串匹配问题",
+      "path": "08 沐枫OJ/数据结构实践/01 栈/03 字符串匹配问题.md"
+    },
+    {
+      "basename": "828. 模拟栈",
+      "path": "02 算法基础课/02 第二讲 数据结构/03 栈/828. 模拟栈.md"
+    },
+    {
+      "basename": "01 95. 费解的开关",
+      "path": "04 蓝桥杯C++AB组辅导课/01 第一讲 递归与递推/01 95. 费解的开关.md"
+    },
+    {
+      "basename": "10 1115 Counting Nodes in a Binary Search Tree",
+      "path": "03 PAT甲级/05 第五章 树/10 1115 Counting Nodes in a Binary Search Tree.md"
+    },
+    {
+      "basename": "AVL树",
+      "path": "98 文章/AVL树.md"
+    },
+    {
+      "basename": "02 1020 Tree Traversals",
+      "path": "03 PAT甲级/05 第五章 树/02 1020 Tree Traversals.md"
+    },
+    {
+      "basename": "01 1004 Counting Leaves",
+      "path": "03 PAT甲级/05 第五章 树/01 1004 Counting Leaves.md"
+    },
+    {
+      "basename": "04 1028 List Sorting",
+      "path": "03 PAT甲级/04 第四章 排序/04 1028 List Sorting.md"
+    },
+    {
+      "basename": "07 1075 PAT Judge",
+      "path": "03 PAT甲级/04 第四章 排序/07 1075 PAT Judge.md"
+    },
+    {
+      "basename": "06 1052 Linked List Sorting",
+      "path": "03 PAT甲级/04 第四章 排序/06 1052 Linked List Sorting.md"
+    },
+    {
+      "basename": "05 1039 Course List for Student",
+      "path": "03 PAT甲级/04 第四章 排序/05 1039 Course List for Student.md"
+    },
+    {
+      "basename": "03 1025 PAT Ranking",
+      "path": "03 PAT甲级/04 第四章 排序/03 1025 PAT Ranking.md"
+    },
+    {
+      "basename": "01 1012 The Best Rank",
+      "path": "03 PAT甲级/04 第四章 排序/01 1012 The Best Rank.md"
+    },
+    {
+      "basename": "836. 合并集合",
+      "path": "02 算法基础课/02 第二讲 数据结构/09 并查集/836. 合并集合.md"
     }
   ],
   "omittedPaths": [],

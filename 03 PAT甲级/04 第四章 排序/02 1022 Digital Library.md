@@ -4,7 +4,7 @@
 
 #模拟 #set #sstream #排序
 
-A Digital Library contains millions of books, stored according to their titles, authors, key words of their abstracts, publishers, and published years. Each book is assigned an unique 7-digit number as its ID. Given any query from a reader, you are supposed to output the resulting books, sorted in increasing order of their ID's.
+A Digital[^1] Library contains millions of books, stored according to their titles, authors, key words of their abstracts, publishers[^2], and published years. Each book is assigned an unique[^3] 7-digit number as its ID. Given any query[^4] from a reader, you are supposed to output the resulting[^5] books, sorted in increasing order of their ID's.
 
 ### Input Specification:
 
@@ -17,7 +17,7 @@ Each input file contains one test case. For each case, the first line contains a
 - Line #5: the publisher -- a string of no more than 80 characters;
 - Line #6: the published year -- a 4-digit number which is in the range [1000, 3000].
 
-It is assumed that each book belongs to one author only, and contains no more than 5 key words; there are no more than 1000 distinct key words in total; and there are no more than 1000 distinct publishers.
+It is assumed that each book belongs to one author only, and contains no more than 5 key words; there are no more than 1000 distinct[^6] key words in total; and there are no more than 1000 distinct publishers.
 
 After the book information, there is a line containing a positive integer $M (≤1000)$ which is the number of user's search queries. Then $M$ lines follow, each in one of the formats shown below:
 
@@ -184,3 +184,10 @@ int main(void){
 
 
 *2022-07-25 周一*
+
+[^1]: digital $adj.$ 数字的
+[^2]: publisher $n.$ 出版商
+[^3]: unique $adj.$ 独一无二的
+[^4]: query $n.$ 询问
+[^5]: resulting $adj.$ 作为结果的
+[^6]: distinct $adj.$ 不同的

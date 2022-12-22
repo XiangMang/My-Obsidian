@@ -4,15 +4,15 @@
 
 #二分 #hash #双指针 
 
-Eva loves to collect coins from all over the universe, including some other planets like Mars. One day she visited a universal shopping mall which could accept all kinds of coins as payments. However, there was a special requirement of the payment: for each bill, she could only use exactly two coins to pay the exact amount. Since she has as many as $10^5$ coins with her, she definitely needs your help. You are supposed to tell her, for any given amount of money, whether or not she can find two coins to pay for it.
+Eva loves to collect[^1] coins from all over the universe[^2], including some other planets[^3] like Mars. One day she visited a universal shopping mall[^4] which could accept all kinds of coins as payments[^5]. However, there was a special[^6] requirement[^7] of the payment: for each bill[^8], she could only use exactly[^9] two coins to pay the exact[^10] amount[^11]. Since she has as many as $10^5$ coins with her, she definitely[^12] needs your help. You are supposed to tell her, for any given amount of money, whether or not she can find two coins to pay for it.
 
 ### Input Specification:
 
-Each input file contains one test case. For each case, the first line contains 2 positive numbers: $N$ ($≤10^5$, the total number of coins) and $M$ ($≤10^3$, the amount of money Eva has to pay). The second line contains $N$ face values of the coins, which are all positive numbers no more than 500. All the numbers in a line are separated by a space.
+Each input file contains one test case. For each case, the first line contains 2 positive numbers: $N$ ($≤10^5$, the total[^13] number of coins) and $M$ ($≤10^3$, the amount of money Eva has to pay). The second line contains $N$ face values of the coins, which are all positive numbers no more than 500. All the numbers in a line are separated by a space.
 
 ### Output Specification:
 
-For each test case, print in one line the two face values $V_1$ and $V_2$ (separated by a space) such that $V_1+V_2=M$ and $V_1≤V_2$. If such a solution is not unique, output the one with the smallest $V_1$. If there is no solution, output `No Solution` instead.
+For each test case, print in one line the two face values $V_1$ and $V_2$ (separated by a space) such that $V_1+V_2=M$ and $V_1≤V_2$. If such a solution is not unique[^14], output the one with the smallest $V_1$. If there is no solution, output `No Solution` instead.
 
 ### Sample Input 1:
 
@@ -114,7 +114,6 @@ int main(void){
         scanf("%d", &a);
         b = m - a;
         if(hash.count(b)){// 判断符合要求的数是否存在
-            hash.insert(a);
             if(a > b) swap(a, b);// 确保大小关系
             if(a < v1) v1 = a, v2 = b;// 确保是最小值
         }
@@ -163,3 +162,18 @@ int main(void){
 
 
 *2022-08-04 周四*
+
+[^1]: collect $v.$ 收集,采集
+[^2]: universe $n.$ 宇宙
+[^3]: planet $n.$ 行星
+[^4]: mall $n.$ 购物中心
+[^5]: payment $n.$ 支付额
+[^6]: special $adj.$ 特别的
+[^7]: requirement $n.$ 要求
+[^8]: bill $n.$ 账单
+[^9]: exactly $adv.$ 精确的;恰好
+[^10]: exact $adj.$ 准确的
+[^11]: amount $n.$ 数量,金额
+[^12]: definitely $adv.$ 肯定的;明确的
+[^13]: total $n.$ 总数
+[^14]: unique $adj.$ 独一无二的

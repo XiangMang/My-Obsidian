@@ -8,11 +8,11 @@ This time you are asked to tell the difference between the lowest grade of all t
 
 ### Input Specification:
 
-Each input file contains one test case. Each case contains a positive integer *N*, followed by *N* lines of student information. Each line contains a student's `name`, `gender`, `ID` and `grade`, separated by a space, where `name` and `ID` are strings of no more than 10 characters with no space, `gender` is either `F` (female) or `M` (male), and `grade` is an integer between 0 and 100. It is guaranteed that all the grades are distinct.
+Each input file contains one test case. Each case contains a positive integer *N*, followed by *N* lines of student information. Each line contains a student's `name`, `gender`, `ID` and `grade`, separated by a space, where `name` and `ID` are strings of no more than 10 characters with no space, `gender` is either `F` (female) or `M` (male), and `grade` is an integer between 0 and 100. It is guaranteed that all the grades are distinct[^1].
 
 ### Output Specification:
 
-For each test case, output in 3 lines. The first line gives the name and ID of the female student with the highest grade, and the second line gives that of the male student with the lowest grade. The third line gives the difference *g**r**a**d**e**F*−*g**r**a**d**e**M*. If one such kind of student is missing, output `Absent` in the corresponding line, and output `NA` in the third line instead.
+For each test case, output in 3 lines. The first line gives the name and ID of the female student with the highest grade, and the second line gives that of the male student with the lowest grade. The third line gives the difference $grade_F−grade_M$[^2]. If one such kind of student is missing, output `Absent` in the corresponding line, and output `NA` in the third line instead.
 
 ### Sample Input 1:
 
@@ -100,3 +100,6 @@ int main(void){
 
 
 *2022-07-14 周四*
+
+[^1]: distinct $adj.$ 不同的
+[^2]: 此处需要使用绝对值函数

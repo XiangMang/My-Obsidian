@@ -12,7 +12,7 @@ Each input file contains one test case. Each case occupies 2 lines, and each lin
 
 $K ~N_1 ~a_{N_1} ~N_2 ~a_{N_2} ~... ~N_K ~a_{N_K}$
 
-where K is the number of nonzero terms in the polynomial, Ni and $a_{N_i} (i=1,2,⋯,K)$ are the exponents and coefficients, respectively. It is given that $1≤K≤10，0≤NK<⋯<N2<N1≤1000$.
+where K is the number of nonzero terms in the polynomial, $N_i$ and $a_{N_i} (i=1,2,⋯,K)$ are the exponents and coefficients, respectively. It is given that $1≤K≤10，0≤N_K<⋯<N_2<N_1≤1000$.
 
 ### Output Specification:
 
@@ -38,34 +38,42 @@ For each test case you should output the product of $A$ and $B$ in one line, wit
 
 using namespace std;
 
-const int N = 1010;
+const int N = 1e3 + 10;
 
 int n, m;
-double no[N];
+double a[N], b[N], c[2 * N];
 
 int main(void){
 
     cin >> n;
     while(n--){
-        int a;
-        double b;
-        cin >> a >> b;
-        no[a] += b;
+        int i;
+        double j;
+        cin >> i >> j;
+        a[i] = j;
     }
 
     cin >> m;
     while(m--){
-        int a;
-        double b;
-        cin >> a >> b;
-        no[a] += b;
+        int i;
+        double j;
+        cin >> i >> j;
+        b[i] = j;
     }
 
-    int k = 0;
-    for(auto c : no) if(c != 0) k++;
+    for(int i = N; i >= 0; i--){
+        for(int j = N; j >= 0; j--){
+            c[i + j] += a[i] * b[j];
+        }
+    }
+
+    int k = 0; 
+    for(auto s : c) if(s != 0) k++;
     printf("%d", k);
-    for(int i = 1000; i >= 0; i--){
-        if(no[i] != 0) printf(" %d %.1lf", i, no[i]);
+    for(int i = 2 * N; i >= 0; i--){
+        if(c[i] != 0){
+            printf(" %d %.1lf", i, c[i]);
+        }
     }
 
     return 0;
@@ -74,3 +82,4 @@ int main(void){
 
 
 *2022-07-19 周二*
+	 product $n.$ 乘积

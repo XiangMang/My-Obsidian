@@ -1,13 +1,6 @@
 {
   "editor:delete-paragraph": [],
-  "app:delete-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "D"
-    }
-  ],
+  "app:delete-file": [],
   "insert-template": [
     {
       "modifiers": [
