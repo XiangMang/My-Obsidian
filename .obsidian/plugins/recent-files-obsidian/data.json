@@ -1,12 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "802. 区间和",
+      "path": "02 算法基础课/01 第一讲 基础算法/10 离散化/802. 区间和.md"
+    },
+    {
       "basename": "801. 二进制中1的个数",
       "path": "02 算法基础课/01 第一讲 基础算法/09 位运算/801. 二进制中1的个数.md"
     },
     {
-      "basename": "01 熄灯问题",
-      "path": "08 沐枫OJ/01 熄灯问题.md"
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "关于二分模板的使用",
+      "path": "99 经验总结/关于二分模板的使用.md"
+    },
+    {
+      "basename": "如何在git bash中使用tmux",
+      "path": "99 经验总结/如何在git bash中使用tmux.md"
+    },
+    {
+      "basename": "中位数",
+      "path": "99 经验总结/中位数.md"
+    },
+    {
+      "basename": "01 786. 第k个数-Acwing",
+      "path": "97 问题/01 786. 第k个数-Acwing.md"
+    },
+    {
+      "basename": "6-1 Evaluate Postfix Expression",
+      "path": "06 杂题/6-1 Evaluate Postfix Expression.md"
+    },
+    {
+      "basename": "6-1 单链表逆转",
+      "path": "05 PTA浙大数据结构题目集/03 数据结构与算法题目集/函数题/6-1 单链表逆转.md"
+    },
+    {
+      "basename": "01 线性表的顺序存储实现",
+      "path": "05 PTA浙大数据结构题目集/05 数据结构的实现/01 线性表的顺序存储实现.md"
+    },
+    {
+      "basename": "习题2.8 输出全排列",
+      "path": "05 PTA浙大数据结构题目集/01《数据结构》题目集/编程题/习题2.8 输出全排列.md"
+    },
+    {
+      "basename": "习题2.2 数组循环左移",
+      "path": "05 PTA浙大数据结构题目集/01《数据结构》题目集/编程题/习题2.2 数组循环左移.md"
+    },
+    {
+      "basename": "实例1.1 最大子列和问题",
+      "path": "05 PTA浙大数据结构题目集/01《数据结构》题目集/编程题/实例1.1 最大子列和问题.md"
+    },
+    {
+      "basename": "熄灯问题",
+      "path": "06 杂题/熄灯问题.md"
+    },
+    {
+      "basename": "3564. 日期类",
+      "path": "06 杂题/3564. 日期类.md"
+    },
+    {
+      "basename": "3477. 简单排序",
+      "path": "06 杂题/3477. 简单排序.md"
+    },
+    {
+      "basename": "1076. 迷宫问题",
+      "path": "06 杂题/1076. 迷宫问题.md"
     },
     {
       "basename": "2816. 判断子序列",
@@ -73,24 +133,12 @@
       "path": "02 算法基础课/01 第一讲 基础算法/02 归并排序/788. 逆序对的数量.md"
     },
     {
-      "basename": "实例1.1 最大子列和问题",
-      "path": "05 数据结构题目集/01《数据结构》题目集/编程题/实例1.1 最大子列和问题.md"
-    },
-    {
       "basename": "842. 排列数字",
       "path": "02 算法基础课/03 第三讲 搜索与图论/01 DFS/842. 排列数字.md"
     },
     {
-      "basename": "习题2.8 输出全排列",
-      "path": "05 数据结构题目集/01《数据结构》题目集/编程题/习题2.8 输出全排列.md"
-    },
-    {
       "basename": "08 全排列问题",
       "path": "08 沐枫OJ/数据结构实践/01 栈/08 全排列问题.md"
-    },
-    {
-      "basename": "常用命令介绍",
-      "path": "20 Linux基础/01 常用文件管理命令/常用命令介绍.md"
     },
     {
       "basename": "786. 第k个数",
@@ -151,54 +199,6 @@
     {
       "basename": "828. 模拟栈",
       "path": "02 算法基础课/02 第二讲 数据结构/03 栈/828. 模拟栈.md"
-    },
-    {
-      "basename": "01 95. 费解的开关",
-      "path": "04 蓝桥杯C++AB组辅导课/01 第一讲 递归与递推/01 95. 费解的开关.md"
-    },
-    {
-      "basename": "10 1115 Counting Nodes in a Binary Search Tree",
-      "path": "03 PAT甲级/05 第五章 树/10 1115 Counting Nodes in a Binary Search Tree.md"
-    },
-    {
-      "basename": "AVL树",
-      "path": "98 文章/AVL树.md"
-    },
-    {
-      "basename": "02 1020 Tree Traversals",
-      "path": "03 PAT甲级/05 第五章 树/02 1020 Tree Traversals.md"
-    },
-    {
-      "basename": "01 1004 Counting Leaves",
-      "path": "03 PAT甲级/05 第五章 树/01 1004 Counting Leaves.md"
-    },
-    {
-      "basename": "04 1028 List Sorting",
-      "path": "03 PAT甲级/04 第四章 排序/04 1028 List Sorting.md"
-    },
-    {
-      "basename": "07 1075 PAT Judge",
-      "path": "03 PAT甲级/04 第四章 排序/07 1075 PAT Judge.md"
-    },
-    {
-      "basename": "06 1052 Linked List Sorting",
-      "path": "03 PAT甲级/04 第四章 排序/06 1052 Linked List Sorting.md"
-    },
-    {
-      "basename": "05 1039 Course List for Student",
-      "path": "03 PAT甲级/04 第四章 排序/05 1039 Course List for Student.md"
-    },
-    {
-      "basename": "03 1025 PAT Ranking",
-      "path": "03 PAT甲级/04 第四章 排序/03 1025 PAT Ranking.md"
-    },
-    {
-      "basename": "01 1012 The Best Rank",
-      "path": "03 PAT甲级/04 第四章 排序/01 1012 The Best Rank.md"
-    },
-    {
-      "basename": "836. 合并集合",
-      "path": "02 算法基础课/02 第二讲 数据结构/09 并查集/836. 合并集合.md"
     }
   ],
   "omittedPaths": [],
