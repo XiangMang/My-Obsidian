@@ -1,7 +1,7 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Things",
   "translucency": true,
-  "theme": "obsidian",
+  "theme": "system",
   "baseFontSize": 16,
   "monospaceFontFamily": "Consolas",
   "accentColor": ""
