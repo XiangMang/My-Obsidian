@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1b8b6d6449950629",
+        "id": "5ed1643638ea407e",
         "type": "tabs",
         "children": [
           {
-            "id": "3f2a16f7d3c370d9",
+            "id": "f2f30f91758c9a1f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "06 沐枫/大学生蓝桥杯集训/01 递推与递归/118. 分形.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "分形",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "06 沐枫/大学生蓝桥杯集训/01 递推与递归/118. 分形.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "06 沐枫/大学生蓝桥杯集训/01 递推与递归/118. 分形.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "06 沐枫/大学生蓝桥杯集训/01 递推与递归/118. 分形.md"
+              }
             }
           }
         ]
@@ -149,17 +159,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "3f2a16f7d3c370d9",
+  "active": "f2f30f91758c9a1f",
   "lastOpenFiles": [
     "07 杂题/沐枫/熄灯问题.md",
-    "07 杂题/AcWing/3715. 最少交换次数.md",
-    "07 杂题/AcWing/3564. 日期类.md",
     "07 杂题/AcWing/1076. 迷宫问题.md",
-    "07 杂题/PAT浙大数据结构/习题1.8 二分查找.md",
-    "07 杂题/PAT浙大数据结构/基础实验3-2.2 单链表分段逆转.md",
-    "07 杂题/PAT浙大数据结构/6-1 单链表逆转.md",
-    "07 杂题/PAT浙大数据结构/6-6 带头结点的链式表操作集.md",
-    "经验总结/关于二分模板的使用.md",
-    "经验总结/中位数.md"
+    "06 沐枫/大学生蓝桥杯集训/01 递推与递归/118. 分形.md",
+    "02 算法基础课/01 第一讲 基础算法/01 快速排序/785. 快速排序.md",
+    "05 蓝桥杯C++组/01 第一讲 递归与递推/01 95. 费解的开关.md",
+    "07 杂题/AcWing/未命名.md",
+    "02 算法基础课/02 第二讲 数据结构/02 双链表/827. 双链表.md",
+    "02 算法基础课/02 第二讲 数据结构/01 单链表/826. 单链表.md",
+    "02 算法基础课/03 第三讲 搜索与图论/01 DFS/842. 排列数字.md",
+    "07 杂题/PAT浙大数据结构/习题2.8 输出全排列.md"
   ]
 }
