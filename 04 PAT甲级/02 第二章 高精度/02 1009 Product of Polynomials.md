@@ -16,7 +16,7 @@ where K is the number of nonzero terms in the polynomial, $N_i$ and $a_{N_i} (i=
 
 ### Output Specification:
 
-For each test case you should output the product of $A$ and $B$ in one line, with the same format as the input. Notice that there must be **NO** extra space at the end of each line. Please be accurate up to 1 decimal place.
+For each test case you should output the product[^1] of $A$ and $B$ in one line, with the same format as the input. Notice that there must be **NO** extra space at the end of each line. Please be accurate up to 1 decimal place.
 
 ### Sample Input:
 
@@ -82,4 +82,5 @@ int main(void){
 
 
 *2022-07-19 周二*
-	 product $n.$ 乘积
+
+[^1]: product $n.$ 乘积

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "经验总结/关于二分模板的使用.md",
+                "file": "02 算法基础课/01 第一讲 基础算法/06 差分/798. 差分矩阵.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "经验总结/关于二分模板的使用.md",
+                "file": "02 算法基础课/01 第一讲 基础算法/06 差分/798. 差分矩阵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "经验总结/关于二分模板的使用.md",
+                "file": "02 算法基础课/01 第一讲 基础算法/06 差分/798. 差分矩阵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "经验总结/关于二分模板的使用.md"
+                "file": "02 算法基础课/01 第一讲 基础算法/06 差分/798. 差分矩阵.md"
               }
             }
           }
@@ -158,17 +158,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "e59ba635f9b74ed6",
+  "active": "62ffeb0c19dddf1f",
   "lastOpenFiles": [
+    "02 算法基础课/01 第一讲 基础算法/06 差分/797. 差分.md",
+    "04 PAT甲级/02 第二章 高精度/02 1009 Product of Polynomials.md",
+    "04 PAT甲级/02 第二章 高精度/03 1023 Have Fun with Numbers.md",
+    "经验总结/关于二分模板的使用.md",
     "07 杂题/PAT浙大数据结构/习题1.8 二分查找.md",
     "07 杂题/PAT浙大数据结构/基础实验3-2.2 单链表分段逆转.md",
     "07 杂题/PAT浙大数据结构/6-5 链式表操作集.md",
     "07 杂题/PAT浙大数据结构/6-4 链式表的按序号查找.md",
     "07 杂题/PAT浙大数据结构/6-3 求链式表的表长.md",
-    "07 杂题/PAT浙大数据结构/6-2 顺序表操作集.md",
-    "07 杂题/PAT浙大数据结构/6-1 Evaluate Postfix Expression.md",
-    "07 杂题/PAT浙大数据结构/6-1 单链表逆转.md",
-    "07 杂题/AcWing/3715. 最少交换次数.md",
-    "07 杂题/AcWing/3619. 日期.md"
+    "07 杂题/PAT浙大数据结构/6-2 顺序表操作集.md"
   ]
 }
