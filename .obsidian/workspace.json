@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "082d2acc1a88dff9",
+        "id": "88e6f88497ad22bb",
         "type": "tabs",
         "children": [
           {
-            "id": "62ffeb0c19dddf1f",
+            "id": "07d7f096d3065408",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 PAT甲级/02 第二章 高精度/02 1009 Product of Polynomials.md",
+                "file": "02 算法基础课/02 第二讲 数据结构/07 KMP/831. KMP字符串.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 PAT甲级/02 第二章 高精度/02 1009 Product of Polynomials.md",
+                "file": "02 算法基础课/02 第二讲 数据结构/07 KMP/831. KMP字符串.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 PAT甲级/02 第二章 高精度/02 1009 Product of Polynomials.md",
+                "file": "02 算法基础课/02 第二讲 数据结构/07 KMP/831. KMP字符串.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 PAT甲级/02 第二章 高精度/02 1009 Product of Polynomials.md"
+                "file": "02 算法基础课/02 第二讲 数据结构/07 KMP/831. KMP字符串.md"
               }
             }
           }
@@ -158,17 +158,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "62ffeb0c19dddf1f",
+  "active": "07d7f096d3065408",
   "lastOpenFiles": [
-    "02 算法基础课/01 第一讲 基础算法/06 差分/798. 差分矩阵.md",
-    "02 算法基础课/01 第一讲 基础算法/06 差分/797. 差分.md",
-    "04 PAT甲级/02 第二章 高精度/02 1009 Product of Polynomials.md",
-    "04 PAT甲级/02 第二章 高精度/03 1023 Have Fun with Numbers.md",
-    "经验总结/关于二分模板的使用.md",
-    "07 杂题/PAT浙大数据结构/习题1.8 二分查找.md",
-    "07 杂题/PAT浙大数据结构/基础实验3-2.2 单链表分段逆转.md",
-    "07 杂题/PAT浙大数据结构/6-5 链式表操作集.md",
-    "07 杂题/PAT浙大数据结构/6-4 链式表的按序号查找.md",
-    "07 杂题/PAT浙大数据结构/6-3 求链式表的表长.md"
+    "02 算法基础课/01 第一讲 基础算法/01 快速排序/785. 快速排序.md",
+    "05 蓝桥杯C++组/01 第一讲 递归与递推/04 95. 费解的开关.md",
+    "01 模板/图片库/快速排序动画展示.gif",
+    "02 算法基础课/02 第二讲 数据结构/07 KMP/831. KMP字符串.md",
+    "01 模板/图片库/KMP算法动画展示.gif",
+    "README.md",
+    "问题.md",
+    "05 蓝桥杯C++组/01 第一讲 递归与递推/01 92. 递归实现指数型枚举.md",
+    "06 沐枫/大学生蓝桥杯集训/01 递推与递归/A 92. 递归实现指数型枚举.md",
+    "04 PAT甲级/02 第二章 高精度/02 1009 Product of Polynomials.md"
   ]
 }

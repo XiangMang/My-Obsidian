@@ -10,7 +10,7 @@ This time, you are supposed to find $A×B$ where $A$ and $B$ are two polynomials
 
 Each input file contains one test case. Each case occupies 2 lines, and each line contains the information of a polynomial:
 
-$K ~N_1 ~a_{N_1} ~N_2 ~a_{N_2} ~... ~N_K ~a_{N_K}$
+$K ~~N_1 ~~a_{N_1} ~~N_2 ~~a_{N_2} ~~ \dots ~~N_K ~~a_{N_K}$
 
 where K is the number of nonzero terms in the polynomial, $N_i$ and $a_{N_i} (i=1,2,⋯,K)$ are the exponents and coefficients, respectively. It is given that $1 \leq K \leq 10,0 \leq N_K< \dots <N_2<N_1 \leq 1000$.
 
