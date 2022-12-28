@@ -1,1 +1,1 @@
-![[Pasted image 20221106225323.png]]
+![[AVL树配图.png]]

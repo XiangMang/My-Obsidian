@@ -4,23 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "88e6f88497ad22bb",
+        "id": "1e90f88f2c8fab2c",
         "type": "tabs",
         "children": [
           {
-            "id": "07d7f096d3065408",
+            "id": "d80c8d025a05385e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 算法基础课/02 第二讲 数据结构/07 KMP/831. KMP字符串.md",
+                "file": "08 每日一题/02 3400. 统计次数.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f54340790617ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 算法基础课/02 第二讲 数据结构/08 Trie/835. Trie字符串统计.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad877111a90526c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文章/单调栈思想.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c137d2d3377e715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文章/单调栈思想.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0de3c623184a1ae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文章/单调队列思想.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -49,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#trie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 算法基础课/02 第二讲 数据结构/07 KMP/831. KMP字符串.md",
+                "file": "文章/单调队列思想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 算法基础课/02 第二讲 数据结构/07 KMP/831. KMP字符串.md",
+                "file": "文章/单调队列思想.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 算法基础课/02 第二讲 数据结构/07 KMP/831. KMP字符串.md"
+                "file": "文章/单调队列思想.md"
               }
             }
           }
@@ -158,17 +211,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "07d7f096d3065408",
+  "active": "0de3c623184a1ae1",
   "lastOpenFiles": [
-    "02 算法基础课/01 第一讲 基础算法/02 归并排序/787. 归并排序.md",
-    "未命名.md",
-    "归并排序动画展示.gif.md",
-    "02 算法基础课/01 第一讲 基础算法/01 快速排序/785. 快速排序.md",
-    "02 算法基础课/02 第二讲 数据结构/07 KMP/831. KMP字符串.md",
+    "文章/单调栈思想.md",
+    "07 杂题/洛谷/P2698 USACO12MAR Flowerpot S.md",
     "02 算法基础课/02 第二讲 数据结构/06 单调队列/154. 滑动窗口.md",
-    "05 蓝桥杯C++组/01 第一讲 递归与递推/04 95. 费解的开关.md",
-    "01 模板/图片库/快速排序动画展示.gif",
-    "01 模板/图片库/KMP算法动画展示.gif",
-    "README.md"
+    "01 模板/图片库/单调栈思想配图_1(白色背景).png",
+    "01 模板/图片库/单调栈思想配图_2(白色背景).png",
+    "01 模板/图片库/单调栈配图_2.svg",
+    "01 模板/图片库/单调栈配图_1.svg",
+    "08 每日一题/02 3400. 统计次数.md",
+    "02 算法基础课/02 第二讲 数据结构/08 Trie/835. Trie字符串统计.md",
+    "08 每日一题/03 4366. 上课睡觉.md"
   ]
 }
