@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "子矩阵",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "path:\"05 蓝桥杯C++AB组辅导课\"",
+      "query": "path:\"05 蓝桥杯C++AB组\"",
       "color": {
         "a": 1,
         "rgb": 16752003
@@ -81,6 +81,6 @@
   "repelStrength": 13.6342042755344,
   "linkStrength": 1,
   "linkDistance": 212,
-  "scale": 0.21164391731425627,
+  "scale": 0.7514342322277626,
   "close": true
 }

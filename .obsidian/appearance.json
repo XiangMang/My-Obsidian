@@ -4,5 +4,6 @@
   "theme": "system",
   "baseFontSize": 16,
   "monospaceFontFamily": "Consolas",
-  "accentColor": ""
+  "accentColor": "",
+  "nativeMenus": false
 }
