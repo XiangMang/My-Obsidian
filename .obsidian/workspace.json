@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ddc553124ebe6683",
+        "id": "49053fbcb30af49c",
         "type": "tabs",
         "children": [
           {
-            "id": "91340b80f415a236",
+            "id": "cf65cac3b0b94a27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 蓝桥杯C++AB组/02 第二讲 二分与前缀和/06 1221. 四平方和.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cdf4c2ffa5d6461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 每日一题/05 4818. 奶牛大学.md",
+                "file": "README.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#trie",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 每日一题/05 4818. 奶牛大学.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 每日一题/05 4818. 奶牛大学.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 每日一题/05 4818. 奶牛大学.md"
+                "file": "README.md"
               }
             }
           }
@@ -172,17 +158,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4cdf4c2ffa5d6461",
+  "active": "cf65cac3b0b94a27",
   "lastOpenFiles": [
-    "05 蓝桥杯C++AB组/02 第二讲 二分与前缀和/06 1221. 四平方和.md",
-    "05 蓝桥杯C++AB组/02 第二讲 二分与前缀和/07 1227. 分巧克力.md",
-    "05 蓝桥杯C++AB组/02 第二讲 二分与前缀和/08 99. 激光炸弹.md",
-    "05 蓝桥杯C++AB组/02 第二讲 二分与前缀和/05 730. 机器人跳跃问题.md",
-    "05 蓝桥杯C++AB组/02 第二讲 二分与前缀和/04 796. 子矩阵的和.md",
-    "05 蓝桥杯C++AB组/02 第二讲 二分与前缀和/01 789. 数的范围.md",
-    "02 算法基础课/01 第一讲 基础算法/01 快速排序/785. 快速排序.md",
-    "05 蓝桥杯C++AB组/02 第二讲 二分与前缀和/09 1230. K倍区间.md",
-    "08 每日一题/02 3400. 统计次数.md",
-    "02 算法基础课/02 第二讲 数据结构/08 Trie/835. Trie字符串统计.md"
+    "02 算法基础课/04 第四讲 数学知识/05 扩展欧几里得算法/877. 扩展欧几里得算法.md",
+    "02 算法基础课/04 第四讲 数学知识/05 扩展欧几里得算法/878. 线性同余方程.md",
+    "02 算法基础课/04 第四讲 数学知识/10 博弈论/894. 拆分-Nim游戏.md",
+    "02 算法基础课/04 第四讲 数学知识/07 高斯消元/883. 高斯消元解线性方程组.md",
+    "02 算法基础课/04 第四讲 数学知识/07 高斯消元/884. 高斯消元解异或线性方程组.md",
+    "02 算法基础课/04 第四讲 数学知识/08 求组合数/886. 求组合数 II.md",
+    "02 算法基础课/04 第四讲 数学知识/08 求组合数/887. 求组合数 III.md",
+    "02 算法基础课/04 第四讲 数学知识/08 求组合数/888. 求组合数 IV.md",
+    "02 算法基础课/04 第四讲 数学知识/08 求组合数/889. 满足条件的01序列.md",
+    "02 算法基础课/04 第四讲 数学知识/10 博弈论/891. Nim游戏.md"
   ]
 }
