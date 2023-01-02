@@ -16,5 +16,6 @@
     "downscalePercent": 100
   },
   "showFrontmatter": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "newFileLocation": "current"
 }

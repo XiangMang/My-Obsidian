@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "子矩阵",
+  "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
-  "collapse-color-groups": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"01 模板\"",
@@ -22,65 +22,65 @@
       }
     },
     {
-      "query": "path:\"04 PAT甲级\"",
+      "query": "path:\"03 算法提高课\"",
       "color": {
         "a": 1,
         "rgb": 14123923
       }
     },
     {
-      "query": "path:\"05 蓝桥杯C++AB组\"",
+      "query": "path:\"04 PAT乙级\"",
       "color": {
         "a": 1,
         "rgb": 16752003
       }
     },
     {
-      "query": "path:\"07 杂题\"",
+      "query": "path:\"05 PAT甲级\"",
       "color": {
         "a": 1,
-        "rgb": 16382065
+        "rgb": 2400690
       }
     },
     {
-      "query": "path:\"文章\"",
+      "query": "path:\"06 蓝桥杯C++AB组\"",
       "color": {
         "a": 1,
         "rgb": 40913
       }
     },
     {
-      "query": "path:问题",
+      "query": "path:\"07 沐枫\"",
       "color": {
         "a": 1,
         "rgb": 6053078
       }
     },
     {
-      "query": "path:\"06 沐枫\"",
+      "query": "path:\"08 每日一题\"",
       "color": {
         "a": 1,
         "rgb": 12136812
       }
     },
     {
-      "query": "path:\"03 算法提高课\"",
+      "query": "path:\"09 杂题\"",
       "color": {
         "a": 1,
         "rgb": 14048429
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.995715811965812,
   "lineSizeMultiplier": 0.995715811965812,
-  "collapse-forces": false,
-  "centerStrength": 0.520190023752969,
-  "repelStrength": 13.6342042755344,
-  "linkStrength": 1,
-  "linkDistance": 212,
-  "scale": 0.7514342322277626,
-  "close": true
+  "collapse-forces": true,
+  "centerStrength": 0.108333333333333,
+  "repelStrength": 12.4166666666667,
+  "linkStrength": 0,
+  "linkDistance": 285,
+  "scale": 0.0423159026897594,
+  "close": false
 }

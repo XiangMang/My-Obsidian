@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "679ac05b840bfccc",
+        "id": "a2a5356316da2eb9",
         "type": "tabs",
         "children": [
           {
-            "id": "f96358fbd09773d6",
+            "id": "ab1d63f6f3837981",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 PAT甲级/05 第五章 树/补充知识点/826. 单链表.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1868266fa9d1dc1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 沐枫/数据结构实践/01 栈/04 计算(calc).md",
+                "file": "04 PAT乙级(未完成)/1001---1010/1003 我要通过！.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "最长上升子序列",
+                "query": "cmp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 沐枫/数据结构实践/01 栈/04 计算(calc).md",
+                "file": "04 PAT乙级(未完成)/1001---1010/1003 我要通过！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 沐枫/数据结构实践/01 栈/04 计算(calc).md",
+                "file": "04 PAT乙级(未完成)/1001---1010/1003 我要通过！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 沐枫/数据结构实践/01 栈/04 计算(calc).md"
+                "file": "04 PAT乙级(未完成)/1001---1010/1003 我要通过！.md"
               }
             }
           }
@@ -172,17 +158,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1868266fa9d1dc1f",
+  "active": "ab1d63f6f3837981",
   "lastOpenFiles": [
-    "06 沐枫/大学生蓝桥杯集训/02 二分与前缀和/A~I.md",
-    "06 沐枫/大学生蓝桥杯集训/01 递推与递归/J 119. 袭击.md",
-    "06 沐枫/大学生蓝桥杯集训/01 递推与递归/I 118. 分形.md",
-    "06 沐枫/大学生蓝桥杯集训/01 递推与递归/H 117. 占卜DIY.md",
-    "06 沐枫/大学生蓝桥杯集训/01 递推与递归/G 98. 分形之城.md",
-    "06 沐枫/大学生蓝桥杯集训/01 递推与递归/F 97. 约数之和.md",
-    "06 沐枫/大学生蓝桥杯集训/01 递推与递归/E 96. 奇怪的汉诺塔.md",
-    "06 沐枫/大学生蓝桥杯集训/01 递推与递归/D 93. 递归实现组合型枚举.md",
-    "06 沐枫/大学生蓝桥杯集训/01 递推与递归/C 95. 费解的开关.md",
-    "06 沐枫/大学生蓝桥杯集训/01 递推与递归/B 94. 递归实现排列型枚举.md"
+    "04 PAT乙级(未完成)/1001---1010/1001 害死人不偿命的(3n+1)猜想.md",
+    "04 PAT乙级(未完成)/1001---1010/1002 写出这个数.md",
+    "04 PAT乙级(未完成)/1001---1010/1004 成绩排名.md",
+    "04 PAT乙级(未完成)/1001---1010/1005 继续(3n+1)猜想.md",
+    "04 PAT乙级(未完成)/1001---1010/1006 换个格式输出整数.md",
+    "04 PAT乙级(未完成)/1001---1010/1007 素数对猜想.md",
+    "04 PAT乙级(未完成)/1001---1010/1008 数组元素循环右移问题.md",
+    "04 PAT乙级(未完成)/1001---1010/1009 说反话.md",
+    "04 PAT乙级(未完成)/1001---1010/1010 一元多项式求导.md",
+    "问题.md"
   ]
 }
