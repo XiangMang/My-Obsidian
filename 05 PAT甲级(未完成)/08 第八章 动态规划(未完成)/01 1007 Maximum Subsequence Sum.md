@@ -2,7 +2,7 @@
 
 [1479. 最大子序列和 - AcWing题库](https://www.acwing.com/problem/content/1481/)
 
-#动态规划
+#DP
 
 Given a sequence of $K$ integers ${ N_1, N_2, ..., N_K }$. A continuous subsequence is defined to be ${ N_i, N_{i+1}, ..., N_j }$ where $1≤i≤j≤K$. The Maximum Subsequence is the continuous subsequence which has the largest sum of its elements. For example, given sequence $\{ -2, 11, -4, 13, -5, -2 \}$, its maximum subsequence is $\{ 11, -4, 13 \}$ with the largest sum being 20.
 

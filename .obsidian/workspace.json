@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a2a5356316da2eb9",
+        "id": "07e1016f8453b285",
         "type": "tabs",
         "children": [
           {
-            "id": "ab1d63f6f3837981",
+            "id": "845351767ef11775",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 PAT乙级(未完成)/1011---1020(未完成)/1012 数字分类.md",
+                "file": "07 沐枫/大学生蓝桥杯集训/03 数学与简单DP/F 最长不下降序列(LIS).md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cmp",
+                "query": "sstream",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 341.5
   },
   "right": {
     "id": "a023e450ecd8161f",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 PAT乙级(未完成)/1011---1020(未完成)/1012 数字分类.md",
+                "file": "07 沐枫/大学生蓝桥杯集训/03 数学与简单DP/F 最长不下降序列(LIS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 PAT乙级(未完成)/1011---1020(未完成)/1012 数字分类.md",
+                "file": "07 沐枫/大学生蓝桥杯集训/03 数学与简单DP/F 最长不下降序列(LIS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 PAT乙级(未完成)/1011---1020(未完成)/1012 数字分类.md"
+                "file": "07 沐枫/大学生蓝桥杯集训/03 数学与简单DP/F 最长不下降序列(LIS).md"
               }
             }
           }
@@ -158,17 +158,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ab1d63f6f3837981",
+  "active": "845351767ef11775",
   "lastOpenFiles": [
-    "04 PAT乙级(未完成)/1011---1020(未完成)/1011 A+B 和 C.md",
-    "04 PAT乙级(未完成)/1001---1010/1003 我要通过！.md",
-    "04 PAT乙级(未完成)/1001---1010/1001 害死人不偿命的(3n+1)猜想.md",
-    "04 PAT乙级(未完成)/1001---1010/1002 写出这个数.md",
-    "04 PAT乙级(未完成)/1001---1010/1004 成绩排名.md",
-    "04 PAT乙级(未完成)/1001---1010/1005 继续(3n+1)猜想.md",
-    "04 PAT乙级(未完成)/1001---1010/1006 换个格式输出整数.md",
-    "04 PAT乙级(未完成)/1001---1010/1007 素数对猜想.md",
-    "04 PAT乙级(未完成)/1001---1010/1008 数组元素循环右移问题.md",
-    "04 PAT乙级(未完成)/1001---1010/1009 说反话.md"
+    "02 算法基础课(未完成)/05 第五讲 动态规划(未完成)/02 线性DP/895. 最长上升子序列.md",
+    "07 沐枫/大学生蓝桥杯集训/03 数学与简单DP/F 最长不下降序列(LIS).md",
+    "07 沐枫/大学生蓝桥杯集训/03 数学与简单DP/H ~ J.md",
+    "06 蓝桥杯C++AB组(未完成)/03 第三讲 数学与简单DP(未完成)/08 1214. 波动数列.md",
+    "07 沐枫/大学生蓝桥杯集训/03 数学与简单DP/A 小凯的疑惑.md",
+    "07 沐枫/大学生蓝桥杯集训/03 数学与简单DP/G 最长公共子序列(LCS).md",
+    "06 蓝桥杯C++AB组(未完成)/04 第四讲 枚举、模拟与排序(未完成)/04 1204. 错误票据.md",
+    "05 PAT甲级(未完成)/04 第四章 排序(未完成)/02 1022 Digital Library.md",
+    "07 沐枫/大学生蓝桥杯集训/03 数学与简单DP/B ~ E.md",
+    "07 沐枫/大学生蓝桥杯集训/02 二分与前缀和/A---I.md"
   ]
 }
