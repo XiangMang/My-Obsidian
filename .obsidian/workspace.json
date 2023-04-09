@@ -14,13 +14,27 @@
               "type": "markdown",
               "state": {
                 "file": "02 算法基础课(未完成)/01 第一讲 基础算法/09 位运算/801. 二进制中1的个数.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f5a3984768d316b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 算法基础课(未完成)/01 第一讲 基础算法/11 区间合并/803. 区间合并.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "a023e450ecd8161f",
@@ -158,10 +173,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "9d54dc4fa8a77e34",
+  "active": "e59ba635f9b74ed6",
   "lastOpenFiles": [
-    "常用数学符号.md",
+    "02 算法基础课(未完成)/01 第一讲 基础算法/10 离散化/802. 区间和.md",
+    "08 每日一题/01 3384. 二叉树遍历.md",
     "02 算法基础课(未完成)/01 第一讲 基础算法/09 位运算/801. 二进制中1的个数.md",
+    "常用数学符号.md",
     "02 算法基础课(未完成)/01 第一讲 基础算法/08 双指针/2816. 判断子序列.md",
     "02 算法基础课(未完成)/01 第一讲 基础算法/08 双指针/800. 数组元素的目标和.md",
     "02 算法基础课(未完成)/01 第一讲 基础算法/08 双指针/799. 最长连续不重复子序列.md",
